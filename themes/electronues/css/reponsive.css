@@ -1,0 +1,236 @@
+/*ipad ngang & doc*/
+@media only screen and (max-width: 1279px) {
+	/*header*/
+	.link_home{width:42px; text-indent:-9999px}	
+	.shop_by span.shop_by{
+		text-overflow:ellipsis;
+		white-space:nowrap;
+		overflow:hidden;		
+	}
+	.cpanel_icon, .cpanelContainer{display:none}
+	.caption_button{padding:10px 15px}
+	#toTop{display:none !important}
+	#menu .cs_mega_menu_cat .cs_ul_mega_menu ul li.parent a.title_menu_parent:hover{font-weight:400}
+	/*check out*/
+	.grid_8 .footer_links .cssecond + .csdefault{margin-top:10px}
+	.grid_12 ul.step li{width:100%; text-align:left}
+	.grid_12 ul.step li a, .grid_12 ul.step li span{padding-left:20px}
+	
+	.grid_8 .cslogin, .grid_12 .cslogin{width:100%; float:none}
+	.grid_8 #create-account_form #SubmitCreate, .grid_12 #create-account_form #SubmitCreate{margin-top:13px}
+	.grid_12 .fieldset p.select select#days, .grid_12 .fieldset p.select select#months, .grid_12 .fieldset p.select select#years{
+		width:30%;
+		margin-right:3%;
+	}
+	
+	.box2 .title h3{
+		text-overflow:ellipsis;
+		white-space:nowrap;
+		overflow:hidden;
+		max-width:100%;
+	}
+	/*product*/
+	#attributes .attribute_list #color_to_pick_list li{margin-bottom:10px}
+	#buy_block p#availability_statut{margin-top:0}
+	#buy_block .buttons_bottom_block{clear:both; margin: 10px 0 0}
+	/*blog*/
+	.post_image img{width:100%}
+}
+/*ipad ngang*/
+@media only screen and (min-width: 1024px) and (max-width: 1279px) {
+	/*header*/
+	#search_block_top{width:482px}
+	.cs_mega_menu, #menu{width:220px}
+	.shop_by span.shop_by{max-width:176px;}
+	body .ac_results{width:400px !important}
+	/*footer*/
+	#newsletter_block_left input.inputNew{width:448px}
+	/*product detail*/
+	#pb-left-column{width:380px}
+	.one_column #pb-left-column{width:615px}
+	/*check out*/
+	.grid_8 .cart_voucher{margin-top:40px}
+	.grid_8 .cart_voucher input.discount_name{width:105px}
+	.grid_8 .fieldset p.select select, .grid_8 #compare_shipping select{width:300px}
+	.grid_8 .fieldset .text input, .grid_8 .fieldset .required.password input, .grid_8 .fieldset .password input, textarea, .grid_8 .fieldset .textarea textarea, .grid_8 #compare_shipping input[type="text"]{width:274px}
+	.grid_8 .SE_SubmitRefreshCard input{margin-bottom:10px}
+	.grid_8 #compare_shipping #availableCarriers{overflow-x:auto; width:300px}
+	.grid_8 .cart_navigation .cssecond +input.csdefault{margin-top:10px}	
+	.grid_8 .cart_voucher input.discount_name{width:104px}
+	.grid_12 .cart_voucher input.discount_name{width:260px}
+	.grid_15 .cart_voucher input.discount_name{width:382px}
+	.grid_15 ul.step li{width:auto; padding:10px 5px}
+	.grid_16 ul.step li{width:auto; padding:10px 9px}
+	/*blog*/
+	.grid_12 #plpagination{clear:both}
+}
+/*ipad doc*/
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+	/*header*/
+	#search_block_top{width:300px}
+	.cs_mega_menu, #menu{width:172px}
+	.shop_by span.shop_by{max-width:108px; background-size:90%}
+	#index .shop_by span.shop_by{max-width:none}
+	#search_block_top{margin-left:10px}
+	.list_carousel.responsive{margin-left:0; margin-right:0}
+	.list_carousel ul li{margin-left:10px; margin-right:10px}
+	.box2 .box-content, .box1 .title, .box2 .title{padding-left:10px; padding-right:10px}
+	.sub_category{padding-left:10px; padding-right:10px}
+	.caption_des{margin-bottom:10px;}
+	body .ac_results{width:220px !important}
+	/*footer*/
+	#newsletter_block_left input.inputNew{width:290px}
+	.logo_payment{float:none}
+	/*product detail*/
+	#pb-left-column{width:200px}
+	.one_column #pb-left-column{width:428px}
+	#add_to_cart{margin-top:10px}
+	
+	.grid_15 #add_to_cart{margin-top:0}
+	/*checkout*/
+	ul.step li{width:100%; text-align:left}
+	ul.step li a, ul.step li span{padding-left:20px}
+	#carriercompare_submit{margin-bottom:10px}
+	#order-detail-content{margin-bottom:30px}
+	.cart_voucher input.discount_name{width:232px}
+	.grid_8 .cart_voucher input.discount_name{width:128px}
+	.grid_8 .cart_voucher p{float:left; }
+	.grid_8 .fieldset p.select select, .grid_8 #compare_shipping select{width:220px}
+	.grid_8 .fieldset .text input, .grid_8 .fieldset .required.password input, .grid_8 .fieldset .password input, .grid_8 textarea, .grid_8 .fieldset .textarea textarea, .grid_8 #compare_shipping input[type="text"]{width:194px}
+	.grid_8 .SE_SubmitRefreshCard input{margin-bottom:10px; max-width:220px}
+	.grid_8 #compare_shipping #availableCarriers{overflow-x:auto; width:220px}
+	.grid_8 .cart_navigation .cssecond +.csdefault{margin-top:10px}
+	.grid_12 .cart_voucher input.discount_name{width:140px}
+	.grid_12  .fieldset p.select select, .grid_12 #compare_shipping select,
+	.grid_12 .fieldset .text input, .grid_12 .fieldset .required.password input, .grid_12 .fieldset .password input, .grid_12 textarea, .grid_12 .fieldset .textarea textarea, .grid_12 #compare_shipping input[type="text"]{width:100%; box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box}
+	.grid_12 #compare_shipping #availableCarriers{width:340px; overflow-x:auto}
+	.grid_15 .fieldset .text input, .grid_15 .fieldset .required.password input, .grid_15 .fieldset .password input, .grid_15 textarea, .grid_15 .fieldset .textarea textarea, .grid_15 #compare_shipping input[type="text"]{width:405px}
+	.grid_15 .fieldset p.select select#days, .grid_15 .fieldset p.select select#months, .grid_15 .fieldset p.select select#years{
+		width:30%;
+		margin-right:4%;
+	}
+	/*left, right column*/
+	.grid_4 .box1 .title h3, .grid_4 .box1 .title h3 a{
+		text-overflow:ellipsis;
+		white-space:nowrap;
+		overflow:hidden;
+		max-width:100%;
+	}
+	.grid_4 .csbutton{
+		text-overflow:ellipsis;
+		white-space:nowrap;
+		overflow:hidden;
+		max-width:100%;
+		box-sizing:border-box;
+		-webkit-box-sizing:border-box;
+		-moz-box-sizing:border-box;
+		padding:7px 10px;
+	}
+	.grid_4 *{word-wrap:break-word}
+	.grid_4 .list_tree li ul{margin-left:5px}
+	.grid_4 .box1 .box-content, .grid_4 .box1 .title{padding-left:10px; padding-right:10px}
+	/*blog*/
+	.post_image img{width:100%}
+	.list_tree li ul{margin-left:10px}
+	.grid_12 .post_control #productsSortForm{float:left}
+	.grid_12 #plpagination{margin-top:5px}
+}
+/**************iphone ngang & doc*******************/
+@media only screen and (max-width: 767px) {
+	#left_column, #right_column{display:none}
+	/*header*/
+	.header_logo{margin-bottom:0; text-align:center; float:none; clear:both}
+	#search_block_top label{display:none}
+	#search_block_top form{width:100%}
+	div.shop_by{display:none}
+	.static_block_home_banner img{width:100%; height:auto; display:block}
+	.static_block_home_banner .grid_6{margin-bottom:10px}
+	.static_block_home_banner .grid_6.omega{margin-bottom:0}
+	#cart_block{display:none !important}
+	.mode_header{background:url(../img/bg/m_container-header.png) #003def}
+	/*footer*/
+	#footer{padding-right:0}
+	.footer_right .footer_content{border-left:none; margin:0; padding:0}
+	#newsletter_block_left{padding:10px 0; margin:10px 0}
+	.footer_right img{width:100%; height:auto}
+	.logo_payment{float:none}
+	#footer .grid_4, #footer .grid_4 .block_content{clear:both; overflow:hidden}	
+	#footer .title_block{float:left; clear:left}
+	#footer .show_hide_footer{display:block; float:right; clear:right}
+	#newsletter_block_left input.button_mini{float:left}
+	.copy-right{padding-top:10px}
+	#newsletter_block_left{margin-top:17px}
+	.mode_footer_main{padding-bottom:12px}
+	.mode_footer_top{margin-bottom:13px}
+	/*product*/
+	.list_carousel ul li{margin:30px 10px}
+	#viewed-products_block_left  .ajax_block_product{width:100%}
+	#center_column  #pb-right-column, #center_column  #pb-left-column{width:100%; margin-right:0;}
+	#productscategory_list{padding-top:36px}
+	/*check out*/
+	#center_column  .fieldset .text input, #center_column  .fieldset .required.password input, #center_column  .fieldset .password input, #center_column  textarea, #center_column  #center_column  .fieldset .textarea textarea, #center_column  #compare_shipping input[type="text"], #center_column  .fieldset p.select select, #center_column  #compare_shipping select{width:100%; box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box; -o-box-sizing:border-box}
+	#center_column .fieldset p.select select#days, #center_column .fieldset p.select select#months, #center_column .fieldset p.select select#years{width:auto;}
+	.cslogin, #create-account_form, .cslogin_right{width:100%; margin-right:0}	
+	#center_column ul.step li{width:100%; text-align:left}
+	#center_column ul.step li a, #center_column ul.step li span{padding-left:20px}
+	#carriercompare_submit{margin-bottom:10px}
+	#create-account_form #SubmitCreate{margin-top:20px}
+	#authentication #login_form .form_content{padding-top:0}
+	#module-bankwire-payment .cart_navigation .cssecond, #module-cashondelivery-validation .cart_navigation .cssecond,  #module-cheque-payment .cart_navigation .cssecond{margin-bottom:10px}
+	table#cart_summary  .cart_product .c_product_img, .cart_last_product_img{clear:both; float:none; margin-right:0}
+	table#cart_summary  .cart_product .name_product{clear:both}
+	/*home*/
+	
+	#banner_block{display:none}
+	.cs_revolution, .mode_slideshow, .box1{margin-bottom:20px}
+	/*blog*/
+	#center_column .pgrid .pitem{width:100%; margin-left:; margin-right:0}
+	.pgrid .omega, .pgrid .alpha{margin-left:0; margin-right:0}
+}
+/*iphone ngang*/
+@media only screen and (min-width: 480px) and (max-width: 767px)  {
+	/*header*/
+	#search_block_top{width:192px; margin-left:10px}
+	#search_block_top #search_query_top{width:85%}
+	body .ac_results{width:191px !important}
+	.caption_des{margin-bottom:0}
+	.caption_button{padding:5px 10px}
+	/*footer*/
+	#newsletter_block_left input.inputNew{width:340px}
+	/*check out*/
+	#center_column .cart_voucher input.discount_name{width:210px}
+	
+}
+/*iphone doc*/
+@media only screen and (max-width: 479px) {
+	/*header*/
+	#search_block_top{width:175px; margin-left:10px}
+	#shopping_cart{width:40px; overflow:hidden}
+	.text_top{padding-left:68px}
+	.list_carousel.responsive{margin-left:0; margin-right:0}
+	.list_carousel ul li{margin-left:10px; margin-right:10px}	
+	.box2 .box-content, .box1 .title, .box2 .title{padding-left:10px; padding-right:10px}
+	.sub_category{padding-left:10px; padding-right:10px}
+	#header_user{padding-right:0; margin-top:0}
+	body .ac_results{width:173px !important}
+	#search_block_top #search_query_top{width:85%}
+	.home_top_tab .control{padding:0 13px}
+	#languages_block_top{background:none}
+	/*footer*/	
+	#newsletter_block_left input.inputNew{width:228px}
+	/*product*/
+	.new{display:none}
+	#quantity_wanted{width:63px}
+	/*check out*/
+	#update_carriers_list{max-width:300px}
+	#compare_shipping #availableCarriers{max-width:300px; overflow-x:scroll}
+	.cart_navigation .cssecond{margin-right:5px}
+	.cart_voucher{margin-top:40px}
+	.cart_total_price, #cart_summary tfoot td{white-space:nowrap}
+	#center_column .cart_voucher input.discount_name{width:85px;}
+	.footer_links .cssecond{margin-bottom:10px}
+	
+	#toTop{opacity:0.6}
+	.post_control #productsSortForm{float:left}
+	.fancybox-wishlist {min-width: 260px;}
+}

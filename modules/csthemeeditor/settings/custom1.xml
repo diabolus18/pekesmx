@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<setting>
+<bg_mode>wide_mode</bg_mode>
+<header_color>#ffffff</header_color>
+<header_pattern>4w.png</header_pattern>
+<bg_menu_color>#ffffff</bg_menu_color>
+<bg_menu_pattern>18w.png</bg_menu_pattern>
+</setting>

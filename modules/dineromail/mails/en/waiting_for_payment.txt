@@ -1,0 +1,12 @@
+Hi {firstname} {lastname},
+
+Your order #{id_order} has been placed successfully, and is currently in Pending Status. It will be shipped as soon as your payment is confirmed.
+
+You can check the details at any time if you've created an account, by logging in and checking the Order History on the "My Account" section of our website. {shop_url}
+
+Thank you for shopping at {shop_name}.
+
+{shop_name} - {shop_url}
+
+
+{shop_url} powered by PrestaShop™

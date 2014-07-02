@@ -1,0 +1,12 @@
+Hola {firstname} {lastname},
+
+Su órden #{id_order} ha sido realizada exitosamente, y se encuentra ahora en Estado Pendiente. Será despachada en cuanto su pago sea confirmado.
+
+Puede revisar los detalles de la misma en cualquier momento si ha creado una cuenta con nosotros, iniciando sesión y checando su Historial de Órdenes en la sección "Mi Cuenta" de nuestra página. {shop_url}
+
+Gracias por comprar en {shop_name}.
+
+{shop_name} - {shop_url}
+
+
+{shop_url} corriendo sobre PrestaShop™

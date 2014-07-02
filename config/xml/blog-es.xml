@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blog ES</title>
+	<atom:link href="http://www.prestashop.com/blog/es/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.prestashop.com/blog/es</link>
+	<description>Un blog de Ecommerce sobre cómo gestionar una tienda online.</description>
+	<lastBuildDate>Tue, 20 May 2014 10:24:54 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.4</generator>
+		<item>
+		<title>Medios de pago Ecommerce imprescindibles en Europa</title>
+		<link>http://www.prestashop.com/blog/es/medios-de-pago-ecommerce-imprescindibles-en-europa/</link>
+		<comments>http://www.prestashop.com/blog/es/medios-de-pago-ecommerce-imprescindibles-en-europa/#comments</comments>
+		<pubDate>Tue, 20 May 2014 10:24:54 +0000</pubDate>
+		<dc:creator>Deborah Penna</dc:creator>
+				<category><![CDATA[Asociados PrestaShop]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11502</guid>
+		<description><![CDATA[Un futuro emocionante te espera: tu tienda online está creciendo por días y por fin ha llegado el momento de comenzar a explorar más allá de nuestras fronteras. ¿Cómo tienes pensado equipar tu ecommerce para la venta transfronteriza? ¿Cuáles son &#8230; <a href="http://www.prestashop.com/blog/es/medios-de-pago-ecommerce-imprescindibles-en-europa/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Un futuro emocionante te espera: tu tienda online está creciendo por días y por fin ha llegado el momento de comenzar a explorar más allá de nuestras fronteras.</p>
+<p>¿Cómo tienes pensado equipar tu ecommerce para la venta transfronteriza? ¿Cuáles son los elementos clave que deberías considerar e implementar en tu tienda de inmediato?</p>
+<p><a href="http://www.prestashop.com/blog/es/files/2014/05/handsglobere.jpg"><img class="alignnone size-full wp-image-11506" src="http://www.prestashop.com/blog/es/files/2014/05/handsglobere.jpg" alt="" width="500" height="277" /></a></p>
+<p><span id="more-11502"></span>En las compras online no existen las fronteras. Cientos de comunidades digitales de compradores online han florecido en todo el mundo ensalzadas en la búsqueda de las mejores ofertas. Esto es una gran oportunidad para las tiendas online dado que el número de ventas online mundial está destinado a crecer, según los últimos estudios de <a href="http://www.emarketer.com/Article/Global-B2C-Ecommerce-Sales-Hit-15-Trillion-This-Year-Driven-by-Growth-Emerging-Markets/1010575" target="_blank">eMarketer.com</a>.</p>
+<p><img class="size-full wp-image-11505 aligncenter" src="http://www.prestashop.com/blog/es/files/2014/05/Emarketer.167671_re.jpg" alt="" width="300" height="292" /></p>
+<p>Sin embargo, incluso sabiendo que internet ha allanado sin lugar a dudas el camino hacia la globalización y la presencia internacional, permitiendo que los negocios lleguen a una mayor audiencia, la frase <strong>‘Piensa Globalmente, Actúa Localmente’</strong> es más relevante ahora que nunca antes.</p>
+<p>&lt;strong&lt;Localización<br />
+La localización es uno de los aspectos clave de la venta transfronteriza y debería ser cuidadosamente evaluado para conseguir convertir a los clientes extranjeros.</p>
+<p>Los tres elementos básicos de la localización deben tenerse en cuenta:</p>
+<p><strong>1- Traducir la web al idioma del país objetivo</strong><br />
+Una nueva investigación demuestra claramente que la mayoría de compradores presenta una mayor predisposición a comprar un producto si pueden realizar el pedido en su lengua natal, según indicaba <a href="http://www.kwintessential.co.uk/read-our-blog/localization-important-for-successful-global-ecommerce.html" target="_blank">Kwintessential</a>.<br />
+- El 55% de los participantes afirmaron que preferían comprar un producto de aquellas tiendas online que proveían la información en su idioma; en el caso de personas que no hablaban inglés esta cifra alcanzó hasta el 80%.</p>
+<p><strong>2- Mostrar los precios en la moneda del cliente</strong><br />
+Así ayudaremos a los compradores a tomar la decisión de compra más rápido, en vez de hacerles calcular el cambio de precio.</p>
+<p><strong>3- Disponer de medios de pago conocidos por el cliente</strong><br />
+Esta es la clave para convertirlos en sus clientes. Proporcionar de los medios de pago habituales y conocidos por los clientes evitará que pierda ventas frente a sus competidores.</p>
+<h2>¿Cuáles son los métodos de pago más utilizados en cada país, en Europa?</h2>
+<p>La elección de los métodos de pago varía de país a país y está fuertemente influenciada por la disponibilidad de determinados servicios financieros locales. En la siguiente tabla se muestra un resumen de los métodos de pago preferidos, basado en un estudio dirigido por <strong>InnoPay – “Pagos Online 2012. Más allá de la web”</strong>.</p>
+<p><img class="alignnone size-full wp-image-11513" src="http://www.prestashop.com/blog/es/files/2014/05/Spanish-countries.png" alt="" width="613" height="335" /></p>
+<p>&nbsp;</p>
+<h2>HiPay Wallet: soluciones de pago específicas para cada país</h2>
+<p>HiPay Wallet es la única solución, en Europa, que proporciona una solución de pago específica para cada país alternativa, además de la clásica tarjeta de crédito bancaria.</p>
+<p><img class="aligncenter" src="https://lh4.googleusercontent.com/Xo5XG4JGyLPR1kq0fCdsbRkLUALIbgCsegXdc03eoaV5f2RV2dAY3rHrf6pw2x981BFH_6zzwbPwwOzEmj80788ZgjlBThuAqcU7taLC-cyEQQX-XPkg86oXzFANuxyK6w" alt="" width="195px;" height="113px;" /></p>
+<p>HiPay trabaja y negocia constantemente con los bancos para poder ofrecer todas las soluciones de pago utilizadas en toda Europa.</p>
+<p>Permite a tus clientes comprar con mayor comodidad y pagar con un método de pago en el que confíen: transferencia bancaria, pago en efectivo, domiciliación bancaria y tarjeta de débito o crédito. Debajo podrás ver un resumen de algunos de los métodos de pago disponibles a través de HiPay Wallet para algunos paises:</p>
+<p><img class="size-full wp-image-11503 aligncenter" src="http://www.prestashop.com/blog/es/files/2014/05/hipaypayments.png" alt="" width="426" height="332" /></p>
+<p>El<a href="http://addons.prestashop.com/es/pagos-prestashop-modulos/1746-hipay.html" target="_blank"> módulo de HiPay</a> se encuentra disponible en los siguientes países: <strong>Francia, Bélgica, Suiza, Reino Unido, España, Italia, Holanda, Portugal, Noruega, Polonia, Rumanía y República Checa</strong>. Podrás encontrar el módulo de serie en las versiones 1.5 y 1.6 de PrestaShop. Así mismo, puedes descargarlo gratuitamente desde <strong>PrestaShop Addons</strong>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/medios-de-pago-ecommerce-imprescindibles-en-europa/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Diseño Ecommerce: Cómo Encontrar el Logo Adecuado para su Tienda Online</title>
+		<link>http://www.prestashop.com/blog/es/diseno-ecommerce-como-encontrar-el-logo-adecuado-para-su-tienda-online/</link>
+		<comments>http://www.prestashop.com/blog/es/diseno-ecommerce-como-encontrar-el-logo-adecuado-para-su-tienda-online/#comments</comments>
+		<pubDate>Thu, 15 May 2014 15:27:12 +0000</pubDate>
+		<dc:creator>Julie Liu</dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11441</guid>
+		<description><![CDATA[Encontrar el logotipo adecuado para su tienda online es una de las decisiones más importantes que tomará como vendedor online. Como dijo el legendario Diseñador de Logos Paul Rand : “Un logo es una bandera, una firma… a letrero de &#8230; <a href="http://www.prestashop.com/blog/es/diseno-ecommerce-como-encontrar-el-logo-adecuado-para-su-tienda-online/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Encontrar el logotipo adecuado para su tienda online es una de las decisiones más importantes que tomará como vendedor online. Como dijo el legendario Diseñador de Logos <a href="http://www.lifeclever.com/paul-rand-thoughts-and-despair-on-logo-design/" target="_blank">Paul Rand </a>: “Un logo es una bandera, una firma… a letrero de calle”. Su logo debería definir claramente su modelo de negocio a su audiencia objetivo. Con tantas opciones y posibilidades para elegir el diseño de un logo, ¿por dónde debería comenzar?</p>
+<p>Hoy le daremos algunos consejos sobre cómo encontrar el logo adecuado para su tienda online. Comenzaremos con las 5 cualidades que debería buscar, después mostraremos algunos ejemplos de logos muy potentes de algunas tiendas PrestaShop en funcionamiento y finalizaremos con un compendio de recursos que le ayudarán a encontrar el logo perfecto.</p>
+<p><img class="aligncenter size-full wp-image-11442" src="http://www.prestashop.com/blog/es/files/2014/05/ES_ECOMMERCE-DESIGN.jpg" alt="" width="580" height="250" /></p>
+<p><span id="more-11441"></span></p>
+<h2><span style="color: #008080">5 Cualidades que Encontrará en el Logo Adecuado</span></h2>
+<h4><span style="color: #000000">1) Memorable y Único</span></h4>
+<p>Su logo debería transmitir visualmente aquellas características que diferencian a su empresa de la competencia. Debería crear una impresión fuerte y duradera – algo que los clientes puedan recordar con facilidad. Dicho esto, su logo también debería ser único y no parecerse al logo de otra empresa demasiado para evitar cualquier tipo de confusión.</p>
+<h4><span style="color: #000000">2) Apropiado</span></h4>
+<p>Encontrar el logo apropiado es un proceso de dos pasos. En el primero debería <strong>describir su marca con precisión</strong>. En el segundo debería asegurarse que ese mensaje es transmitido correctamente a su <strong>cliente objetivo</strong>.</p>
+<h4><span style="color: #000000">3) Atemporal</span></h4>
+<p>Asegúrese de que su logo es atemporal no dejándose llevar demasiado por las tendencias del momento. ¿No está seguro de cuáles son las tendencias? Fíjese en los elementos de diseño estilístico como los gradientes, capas transparentes y tipos de letra futuristas que hace unos años veíamos por doquier. Vea a qué se parecen con los ejemplos de las tendencias en diseño de 2008 en <a href="http://www.logoorange.com/logo-design-08.php" target="_blank">LogoOrange</a>.</p>
+<h4><span style="color: #000000">4) Debidamente Coloreado</span></h4>
+<p>De forma natural, asociamos los colores con ideas y sensaciones. Aproveche al máximo su logo utilizando colores que representen su marca. Según <a href="https://es.99designs.com/launch/logo-design/f0823c7c4161cf3a/brief" target="_blank">99Designs</a>, algunas asociaciones comunes sobre el color en la Cultura Occidental son:</p>
+<p><span style="color: #ffffff">.</span>        <span style="color: #ff0000"><strong>Rojo:</strong></span> Pasión, Furia, Vigor, Amor, Peligro<br />
+<span style="color: #ffffff">.</span>        <span style="color: #ff9900"><strong>Naranja:</strong></span> Creatividad, Dinamización, Unicidad, Estimulación<br />
+<span style="color: #ffffff">.</span>        <span style="color: #e4c547"><strong>Amarillo:</strong></span> Conocimiento, Energía, Alegría, Intelecto, Juventud<br />
+<span style="color: #ffffff">.</span>        <span style="color: #339966"><strong>Verde:</strong></span> Fertilidad, Riqueza, Curación, Éxito, Crecimiento<br />
+<span style="color: #ffffff">.</span>        <span style="color: #0000ff"><strong>Azul:</strong></span> Confianza, Tranquilidad, Calma, Paz, Fresco<br />
+<span style="color: #ffffff">.</span>        <span style="color: #800080"><strong>Morado:</strong></span> Realeza, Sabiduría, Espiritualidad, Imaginación<br />
+<span style="color: #ffffff">.</span>        <span style="color: #ffffff;background-color: #000000"><strong>Blanco:</strong></span> Pureza, Curación, Perfección, Limpieza, Virtud<br />
+<span style="color: #ffffff">.</span>        <span style="color: #999999"><strong>Gris:</strong></span> Equilibrio, Sofisticación, Neutralidad, Descomprometido<br />
+<span style="color: #ffffff">.</span>        <span style="color: #000000"><strong>Negro:</strong></span> Miedo, Secreto, Formal, Lujo</p>
+<p>Sin embargo, no cuente únicamente con el color para conseguir este efecto. Así mismo asegúrese de que su logo también se ve bien en blanco y negro.</p>
+<h4>5) Simple y Claro</h4>
+<p>Los logotipos deben ser un medio sencillo para que los clientes recuerden nuestra empresa. Muestre su logo a un extraño durante 10 segundos. ¿Generó la idea correcta sobre su marca y su empresa gracias al logo? Si no, simplifique el diseño. Ajústese a no más de 2 tipos de fuentes. Después, elimine cualquier diseño innecesario.</p>
+<h2><span style="color: #008080">Entremos en Tecnicismos</span></h2>
+<p><span style="color: #ffffff">.</span>         <span style="color: #000000"><strong>• Use imágenes vectoriales.</strong></span> Estos tipos de imágenes son creados mediante ecuaciones matemáticas los cuales permiten que se puedan reducir o agrandar sin que se pixelen. Según <a href="http://www.olypress.com/vector-vs-raster-graphics-in-printing/" target="_blank">Olympus Press </a>, los “bordes nítidos” son el aspecto más importante de un logo. Las imágenes vectoriales asegurarán que su logo mantenga los bordes nítidos.</p>
+<p><span style="color: #ffffff">. </span>        <span style="color: #000000"><strong>• Cree logos en varios tamaños.</strong></span> Su logo debería ser consistente entre todas las áreas de su tienda online. Sin embargo, no siempre podría encajar en las dimensiones especificadas. Por ejemplo, observe los distintos tamaños por defecto de cada uno de las diferentes localizaciones de logos dentro de PrestaShop (Puede editar estas desde el Back Office &gt; Preferencias &gt; Temas.)<br />
+<span style="color: #ffffff">.         </span> <strong></strong>         <strong></strong>o Logo de Cabecera (350px X 99px)<br />
+<span style="color: #ffffff">.         </span> <strong></strong>         <strong></strong>o Favicon (16px X 16px)<br />
+<span style="color: #ffffff">.</span>          <strong></strong>         <strong></strong>o Icono del Localizador de Tiendas (30px X 30X)<br />
+<span style="color: #ffffff">. </span>        <span style="color: #000000"><strong>• Cree distintas versiones según el medio.</strong></span> Cabecera de carta, tarjetas de visita, sobres así como anuncios publicitarios… son sólo varios de los muchos lugares donde podría acabar usando su logo. Asegúrese de que tiene una versión que funciona para cada medio que use.</p>
+<h2><span style="color: #008080">Ejemplos de Logos de Tiendas PrestaShop</span></h2>
+<p>¡Observe estos magníficos logos! ¿Puede adivinar qué venden estos vendedores PrestaShop?</p>
+<h4><a href="http://www.starcowparis.com/10-shop" target="_blank">Starcow Paris</a></h4>
+<p style="text-align: center"><img class="size-full wp-image-11448 alignleft" src="http://www.prestashop.com/blog/es/files/2014/05/Starcow-Logo.jpg" alt="" width="162" height="90" /></p>
+<p style="text-align: center"><img class="size-medium wp-image-11449 alignleft" src="http://www.prestashop.com/blog/es/files/2014/05/StarcowImage2-300x183.jpg" alt="" width="300" height="183" /></p>
+<p><strong>Modelo de Negocio:</strong> El primer minorista parisino de ropa de vestir seleccionada con una fuerte influencia de la cultura skate y hip-hop.<br />
+<strong>Por Qué Funciona:</strong> De entrada, su logo es atemporal. Se alejaron claramente de la influencia del grafiti o fuentes extremadamente definidas. Aunque la S en el logo tiene mucho carácter, es fácil de entender. Además, la fuente refleja los precios y la sensación de la tienda; es refinada con un poco de borde y estilo.</p>
+<h4><a href="http://www.yumise.com/american-gourmandises" target="_blank">Yumise </a></h4>
+<p style="text-align: center"><img class="size-full wp-image-11452 alignleft" src="http://www.prestashop.com/blog/es/files/2014/05/Yumise-Logo.jpg" alt="" width="293" height="168" /></p>
+<p><strong>Modelo de Negocio:</strong> Minorista francés de productos comestibles americanos<br />
+<strong>Por Qué Funciona:</strong> Esta fuente es relevante entre los amantes de la comida a la vez que fácil de entender. Además aclaran su nombre de marca único con un eslogan muy claro bajo el nombre de la tienda para resumir su modelo de negocio. Es simple pero muestra claramente la imagen de la marca.</p>
+<h4><a href="http://printthemall.com/" target="_blank"> Print Them All </a></h4>
+<p style="text-align: center"><img class="wp-image-11447 aligncenter" src="http://www.prestashop.com/blog/es/files/2014/05/printthemall-logo.png" alt="" width="152" height="176" /></p>
+<p><strong>Modelo de Negocio: </strong>Marchante de arte de impresiones de artistas callejeros.<br />
+<strong>Por Qué Funciona:</strong> El uso del gris, el cual proyecta neutralidad, es perfecto para un marchante de arte. El discreto logo comunica claramente cuál es su papel en el proceso artístico – promocionar al artista. El uso moderno de plumas estilográficas también muestra el lado más rebelde de la compañía. Esto funciona bien para mostrar cómo se diferencian ellos mismos en un mercado muy establecido.</p>
+<h4><a href="http://www.todobonito.com/" target="_blank"> Todo Bonito</a></h4>
+<p style="text-align: center"><img class="wp-image-11450 alignleft" src="http://www.prestashop.com/blog/es/files/2014/05/todobonito1.png" alt="" width="145" height="145" /><br />
+<img class="wp-image-11451 alignleft" src="http://www.prestashop.com/blog/es/files/2014/05/todobonito2-300x51.png" alt="" width="300" height="51" /></p>
+<p><strong>Modelo de Negocio:</strong> Recortables para descargar e imprimir para fiestas infantiles y celebraciones.<br />
+<strong>Por Qué Funciona:</strong> El patrón como mantel tras el texto hace alusión a los productos que vende la empresa – papel con diseños que pueden ser recortados. También disponen de múltiples logos para diferentes tamaños. El logo cuadrado es perfecto para las imágenes de perfil en las redes sociales y el logo rectangular funciona bien en la cabecera del ecommerce. Finalmente, los tonos rosados son perfectos para su audiencia objetiva – madres que planifican fiestas infantiles.</p>
+<p>¿Necesita más logos de ejemplo para inspirarse? Visite <a href="http://www.logomoose.com/" target="_blank">LogoMoose </a>o <a href="http://www.logoorange.com/logo-design.php" target="_blank">LogoOrange</a>.</p>
+<h2><span style="color: #008080">Recursos sobre Diseño de Logos</span></h2>
+<p>Ahora que ya sabe que buscar en un logo, ¿cómo encuentra su logo? Para tiendas online que disponen de pequeños presupuestos, <a href="http://www.fiverr.com/search/gigs?utf8=%E2%9C%93&amp;search_in=everywhere&amp;query=logo&amp;x=0&amp;y=0&amp;jls_se99912_1_auto=1http://" target="_blank">Fiverr </a>es un buen recurso al que acudir. Disponen de casi 20.000 diseñadores gráficos que ofrecen sus servicios por tan sólo $5. Si se dispone de un presupuesto más sustancial, puede considerar <a href="http://es.99designs.com/logo-design/store" target="_blank">99 designs</a> donde podrá conseguir un logo confeccionado desde $99 o crear un concurso de diseño de logos a partir de $299.</p>
+<p>¿Ya dispone de un logo para su tienda online? ¿Cómo lo consiguió? Comparta su historia con nosotros en los comentarios.</p>
+<div>
+<hr align="left" size="2" width="33%" />
+</div>
+<p>¿Aún no tiene tienda online? <a href="http://www.prestashop.com/es/demo" target="_blank">Pruebe </a>PrestaShop – la mejor solución ecommerce – o ¡comience hoy mismo <a href="http://www.prestashop.com/es/download" target="_blank">descargando </a>el software gratuitamente!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/diseno-ecommerce-como-encontrar-el-logo-adecuado-para-su-tienda-online/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cómo Instalar PrestaShop: La Guía Completa</title>
+		<link>http://www.prestashop.com/blog/es/como-instalar-prestashop-la-guia-completa/</link>
+		<comments>http://www.prestashop.com/blog/es/como-instalar-prestashop-la-guia-completa/#comments</comments>
+		<pubDate>Wed, 14 May 2014 19:08:23 +0000</pubDate>
+		<dc:creator>Benjamin Utterback</dc:creator>
+				<category><![CDATA[Actualidad PrestaShop]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11480</guid>
+		<description><![CDATA[Si está buscando cómo instalar PrestaShop, ha llegado al lugar adecuado. Con casi 4 millones de descargas y más de 185.000 tiendas activas es normal que exista una gran demanda popular que demande un tutorial de instalación. Afortunadamente, existen multitud &#8230; <a href="http://www.prestashop.com/blog/es/como-instalar-prestashop-la-guia-completa/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Si está buscando cómo instalar PrestaShop, ha llegado al lugar adecuado. Con casi 4 millones de descargas y más de 185.000 tiendas activas es normal que exista una gran demanda popular que demande un tutorial de instalación. Afortunadamente, existen multitud de recursos en Internet para ayudarle a instalar PrestaShop de la manera que mejor se adapte a usted. Dispone de varios métodos de instalación. Puede instalar PrestaShop mediante un solo click gracias a un script de instalación proporcionado por su proveedor de alojamiento web. También puede realizar la instalación manualmente a través de MySQL y FTP. Por último, podría interesarle instalar una versión de PrestaShop en su propia computadora para realizar pruebas o con fines de desarrollo. Para cada uno de estos escenarios veremos los pasos que hay que llevar a cabo. ¡Comienza la instalación!</p>
+<p><a href="http://www.prestashop.com/blog/en/files/2014/05/prestashop-1.6-604x272-1.png"><img class="aligncenter size-full wp-image-17286" title="prestashop-1.6-604x272-1" src="http://www.prestashop.com/blog/en/files/2014/05/prestashop-1.6-604x272-1.png" alt="" width="604" height="272" /></a><span id="more-11480"></span></p>
+<p>Antes de que comencemos, debería familiarizarse con la <span style="text-decoration: underline;">Documentación Oficial de Instalación</span>. Esta debería servir como punto de referencia para los diversos métodos que describiremos a continuación.</p>
+<h3><span style="font-size: 14px;"> </span><strong><span style="color: #552d36;">1. <strong>Instalación Un Click</strong>:</span> </strong></h3>
+<p>Si por el nombre piensas que es el método más fácil de instalar PrestaShop, estás en lo cierto. El primer paso consiste en contratar un proveedor de alojamiento web que disponga de un script de instalación de PrestaShop en un click. Pregunte a su proveedor de alojamiento si incluye la instalación de PrestaShop en un click. Existen tres librerías de script muy populares para instalaciones en un click de PrestaShop.</p>
+<ol>
+<li><a href="http://www.simplescripts.com/script_details/install:PrestaShop"><span style="text-decoration: underline;">SimpleScripts</span></a></li>
+<li><a href="http://installatron.com/prestashop"><span style="text-decoration: underline;">Installatron</span></a></li>
+<li><span style="text-decoration: underline;"><a href="http://www.softaculous.com/apps/ecommerce/PrestaShop">Softaculous</a></span></li>
+</ol>
+<p>Todo lo que necesitas es la información de acceso FTP que tu proveedor de alojamiento debe haberte facilitado. Póngase en contacto con su proveedor si no dispone de credenciales de acceso FTP. Algunos proveedores de alojamiento tienen sus propios scripts de instalación así que asegúrese de preguntar a su proveedor antes de proceder.</p>
+<p>PrestaShop se ha asociado con las mejores empresas proveedoras de alojamiento web que le proporcionan la manera más sencilla de disponer de una tienda online lista y en funcionamiento. <a href="http://www.prestashop.com/en/ecommerce-hosting">Consulta nuestra página de Alojamiento para saber más.</a> Estos proveedores conocen bien PrestaShop y sus servidores están optimizados para ofrecer el mejor funcionamiento ecommerce.</p>
+<h3><span style="color: #552d36;"><strong>2. <strong>Instalación Manual de PrestaShop</strong>:</strong></span></h3>
+<p>Si dispone de conocimientos sobre bases de datos MySQL y FTP, entonces esta opción es para usted. Además le proporcionamos un video con instrucciones debajo.</p>
+<p><iframe src="//www.youtube.com/embed/psz4aIPZZuk" frameborder="0" width="560" height="315"></iframe></p>
+<p>Esta es la lista de pasos resumidos a seguir para realizar una instalación por parte de usuarios avanzados. Para <a href="http://doc.prestashop.com/display/PS16/Installing+PrestaShop#InstallingPrestaShop-Detailedinstructions">instrucciones más detalladas, consulte aquí</a>.</p>
+<ul>
+<li>Descargue y descomprima el archivo comprimido de PrestaShop.</li>
+<li>Cree una base de datos para su tienda PrestaShop en su servidor web si es posible. En caso de que exista ningún usuario MySQL con todos los privilegios requeridos para acceder y modificar la base de datos, créelo también..</li>
+<li>Suba los ficheros y directorios de PrestaShop a la ruta elegida de su servidor web. No suba directamente la carpeta raíz /prestashop directamente: sólo los ficheros y directorios que contiene.</li>
+<li>Ejecute el script de instalación de PrestaShop accediendo a la URL pública de la ruta elegida en el servidor web. Esta debería ser la URL donde ha subido los ficheros de PrestaShop.</li>
+<li>Siga las instrucciones de cada pantalla del instalador.</li>
+<li>Tras finalizar la instalación, elimine el directorio /install y anote el nuevo nombre del directorio /admin (el cual se ha generado automáticamente para que solo lo conozca usted por motivos de seguridad).</li>
+</ul>
+<h3><span style="color: #552d36;"><strong>3. instalación PRESTASHOP LOCALMENTE</strong>:</span></h3>
+<p>Una instalación en local significa que su PrestaShop no estará disponible para que lo vea todo internet, sino que residirá dentro de su computador o servidor. Sólo usted podrá acceder a la instalación local. Disponer de una instalación local de PrestaShop es una buena idea. Puede realizar pruebas sobre cambios, actualizaciones o módulos en su computador sin necesidad de tocar en su tienda en producción.Exiten varias herramientas que puede utilizar para instalar PrestaShop localmente. <a href="http://doc.prestashop.com/display/PS16/Installing+PrestaShop+on+your+computer">Diríjase a esta página</a>en la documentación referida a las instalaciones en local.</p>
+<ol>
+<li><a href="http://www.wampserver.com/en/">WAMP</a> (Windows)</li>
+<li><a href="http://www.apachefriends.org/en/xampp.html">XAMPP</a> (Windows, Mac OSX, Linux, Solaris)</li>
+<li><a href="http://www.easyphp.org/">MAMP</a> (Mac OS X)</li>
+</ol>
+<p>Probablemente le serán más útiles los dos paquetes de instalación que incluyen una instalación de PrestaShop lista para usar. Estos harán la tarea mucho más sencilla para quienes tengan menor conocimientos técnicos y deseen disponer de una instalación local.</p>
+<ol>
+<li><a href="http://www.easyphp.org/prestashop.php">EasyPHP</a> (Windows) -</li>
+<li><a href="https://bitnami.com/stack/prestashop">BitNami</a> (Windows, Mac OSX, Linux) - <a href="https://bitnami.com/stack/prestashop/README.txt">Información sobre la Instalación</a></li>
+</ol>
+<div>Ahí lo tiene: una guía completa sobre instalar PrestaShop prácticamente en cualquier sitio. Si tiene alguna pregunta, por favor diríjase a nuestro <span style="text-decoration: underline;">Foro dedicado a la Instalación de PrestaShop</span>. Nuestros community managers y moderadores están activos y listos para ayudarle. La mayoría de incidencias que pueda encontrarse suelen deberse al servidor, normalmente permisos de ficheros. Por este motivo recomendamos encarecidamente a nuestros socios de alojamiento. Instalar PrestaShop es tan solo el primer paso para convertir tu idea en una fuente de ingresos en Internet. Gracias por leernos. Le animamos a expresar sus comentarios justo debajo.</div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/como-instalar-prestashop-la-guia-completa/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Gira Mundial de PrestaShop: Disfrutando nuestra estancia en Perú junto a Wataweb</title>
+		<link>http://www.prestashop.com/blog/es/gira-mundial-de-prestashop-disfrutando-nuestra-estancia-en-peru-junto-a-wataweb/</link>
+		<comments>http://www.prestashop.com/blog/es/gira-mundial-de-prestashop-disfrutando-nuestra-estancia-en-peru-junto-a-wataweb/#comments</comments>
+		<pubDate>Tue, 13 May 2014 16:04:48 +0000</pubDate>
+		<dc:creator>Quentin Audrain</dc:creator>
+				<category><![CDATA[PrestaShop World Tour]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11428</guid>
+		<description><![CDATA[El comercio electrónico en Perú no se parece a nada que hayamos visto hasta ahora. El mercado ecommerce no sólo se encuentra en su etapa más temprana de desarrollo sino que además están trabajando duramente para cambiar el comportamiento de &#8230; <a href="http://www.prestashop.com/blog/es/gira-mundial-de-prestashop-disfrutando-nuestra-estancia-en-peru-junto-a-wataweb/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>El comercio electrónico en Perú no se parece a nada que hayamos visto hasta ahora. El mercado ecommerce no sólo se encuentra en su etapa más temprana de desarrollo sino que además están trabajando duramente para cambiar el comportamiento de los compradores. Nos hemos reunido con <a href="http://www.wataweb.com/" target="_blank">Wataweb</a>, una agencia web de aquí que crea tiendas online con PrestaShop, para aprender más sobre el comercio electrónico en Perú.</p>
+<p><img class="aligncenter size-full wp-image-11429" src="http://www.prestashop.com/blog/es/files/2014/05/PSWT-Lima-Main.jpg" alt="" width="560" height="375" /></p>
+<p><span id="more-11428"></span></p>
+<p>¿A qué se debe que Perú sea un caso único?</p>
+<p>En primer lugar, el comportamiento de los compradores no es el habitual respecto a las prácticas normales en comercio electrónico. Los compradores, a menudo, utilizan efectivo y aquellos que disponen de tarjetas de crédito se muestran reacios a introducir su información de pago en Internet. Además, los compradores peruanos tienen la noción de que sólo deben pagar tras recibir su pedido.</p>
+<p>En segundo lugar, los bancos de aquí son reacios a crear cuentas a los vendedores online. Esto dificulta el crecimiento del comercio electrónico pues se está limitando el número de vendedores online. Sin embargo, hay buenas noticias: PayPal está colaborando en cambiar la situación asociándose con los bancos nacionales más importantes para favorecer la apertura de cuentas a los vendedores online.</p>
+<p><img class="aligncenter size-full wp-image-11430" src="http://www.prestashop.com/blog/es/files/2014/05/PSWT-Lima2.jpg" alt="" width="560" height="377" /></p>
+<p>El mercado del ecommerce en Perú camina a pasos agigantados para expandirse. Nos hemos reunido junto a Javier, Daniel y Dionisio de Wataweb para entender mejor su perspectiva y expectativas sobre el comercio electrónico en Perú.</p>
+<p>¡Veamos el vídeo!</p>
+<p><iframe src="//player.vimeo.com/video/95289493" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="http://vimeo.com/95289493">PrestaShop World Tour: We&#8217;re in Lima, Peru with Wataweb</a> from <a href="http://vimeo.com/prestashop">PrestaShop</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p>Siguiente Parada:<span style="color: #008000"> <strong>¡Norteamérica!</strong></span></p>
+<p>¿Te gustaría que tu ciudad y tu tienda PrestaShop fuese la siguiente? ¿Crees que puedes compartir con nosotros algunos de los aspectos claves del ecommerce en tu país? Por favor, déjanos un comentario o ¡avísanos utilizando el hashtag #PSWorldTour en <a href="https://twitter.com/prestashop" target="_blank">Twitter</a>!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/gira-mundial-de-prestashop-disfrutando-nuestra-estancia-en-peru-junto-a-wataweb/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>10 Herramientas Gratuitas Imprescindibles para los Profesionales del Ecommerce</title>
+		<link>http://www.prestashop.com/blog/es/10-herramientas-gratuitas-imprescindibles-para-los-profesionales-del-ecommerce/</link>
+		<comments>http://www.prestashop.com/blog/es/10-herramientas-gratuitas-imprescindibles-para-los-profesionales-del-ecommerce/#comments</comments>
+		<pubDate>Thu, 08 May 2014 15:19:50 +0000</pubDate>
+		<dc:creator>Natalie Beigel</dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11394</guid>
+		<description><![CDATA[Tanto si acabas de comenzar con tu tienda online como si llevas años llevando tu tienda, podrás beneficiarte de las nuevas herramientas online para mejorar tu negocio en Internet. Aquí tienes una lista de las mejores 10 herramientas gratuitas imprescindibles &#8230; <a href="http://www.prestashop.com/blog/es/10-herramientas-gratuitas-imprescindibles-para-los-profesionales-del-ecommerce/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Tanto si acabas de comenzar con tu tienda online como si llevas años llevando tu tienda, podrás beneficiarte de las nuevas herramientas online para mejorar tu negocio en Internet.</p>
+<p>Aquí tienes una lista de las mejores 10 herramientas gratuitas imprescindibles para los profesionales del ecommerce para ayudarte con la creación de diseños, pruebas de usuario, redes sociales, SEO y muchas de las otras tantas tareas incluidas en la lista de cualquier vendedor online. Pruébalas y te preguntarás ¡cómo has podido vivir sin estas herramientas hasta hoy!</p>
+<p><img class="aligncenter size-full wp-image-11418" title="ES_10 Free Tools for every ecommerce professional" src="http://www.prestashop.com/blog/es/files/2014/05/ES_10-Free-Tools-for-every-ecommerce-professional.jpg" alt="" width="580" height="284" /></p>
+<p><span id="more-11394"></span></p>
+<h4>1. <a href="http://peek.usertesting.com/" target="_blank">PEEK</a></h4>
+<h5>Pruebas de Usabilidad de la Web</h5>
+<p>PEEK es una iniciativa de UserTesting que te proporcionará una visión imparcial sobre la usabilidad de tus websites de personas reales – sin coste alguno. Envía tu tienda online y recibirás un video de 5 minutos de una persona navegando por tu tienda. Peek te ayudará a mejorar la navegabilidad y optimizar la experiencia de usuario por lo que podrás aumentar las conversiones y la satisfacción de tus clientes.</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-11423" title="Peek" src="http://www.prestashop.com/blog/es/files/2014/05/Peek.jpg" alt="" width="488" height="248" /></p>
+<h4>2. <a href="http://keepass.info/" target="_blank">KeePass </a></h4>
+<h5>Gestión de Contraseñas</h5>
+<p>En la vida del propietario de una tienda online hay demasiadas contraseñas que recordar. KeePass es un gestor de contraseñas fácil y seguro de usar. Guarda todas tus contraseñas en una base de datos y protégelas con una clave maestra. ¡Así sólo tendrás que acordarte de una contraseña! Las bases de datos de KeePass son cifradas utilizando los algoritmos más seguros existentes. Además KeePass es una solución de Código Abierto, por lo que podrás comprobar por ti mismo que los algoritmos han sido correctamente implementados.</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-11401" title="KeePass" src="http://www.prestashop.com/blog/es/files/2014/05/KeePass.jpg" alt="" width="549" height="420" /></p>
+<h4>3. <a href="http://evernote.com/skitch/" target="_blank">Skitch </a></h4>
+<h5>Capturas de Pantalla Inteligentes</h5>
+<p>Es la herramienta de captura de pantalla perfecta para comunicarte con tu equipo, tus desarrolladores y tus diseñadores. Skitch es un producto de Evernote que permite realizar capturas de pantalla y añadir textos y formas para que puedas explicar tu punto de vista más rápido. Así mismo Skitch te permite guardar capturas de pantalla y compartirlas mediante un enlace. Descubrirás que Skitch puede ser verdaderamente útil a la hora de trabajar con desarrolladores o diseñadores para crear o mejorar tu sitio.</p>
+<p><iframe src="//www.youtube.com/embed/2iHm37fYO6o?rel=0" frameborder="0" width="560" height="315"></iframe></p>
+<h4>4. <a href="https://bitly.com/" target="_blank">Bitly </a></h4>
+<h5>Seguimiento de Enlaces Acortados</h5>
+<p>Bitly te permite crear enlaces acortados y realizar un seguimiento de los mismos en tiempo real. Esta herramienta es especialmente buena para aquellos vendedores online que hacen uso de las redes sociales. Bitly te permite guardar todos tus enlaces, ver estadísticas, añadir notas y agruparlas y ver quién más ha compartido un “bitlink” (enlace de bitly) a tu contenido. Incluso puedes seguir en qué redes sociales ha sido el enlace compartido, la fecha y hora a la que se abrió y de qué lugar del mundo provenían los enlaces.</p>
+<p><img class="aligncenter size-large wp-image-11396" title="bitly" src="http://www.prestashop.com/blog/es/files/2014/05/bitly-1024x374.jpg" alt="" width="584" height="213" /></p>
+<h4>5. <a href="http://www.responsinator.com/ " target="_blank">Responsinator</a></h4>
+<h5>Pruebas en Dispositivos Móviles</h5>
+<p>Responsinator te permite probar tu web en múltiples dispositivos móviles. Esta es una buena manera de probar la capacidad de respuesta de tu sitio y comprobar cómo perciben los compradores desde el móvil tu tienda. Dispones de distintas vistas como iPhone, Android, iPad, Kindle tanto en modo retrato (vertical) como paisaje (horizontal).</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-11404" title="Responsinator" src="http://www.prestashop.com/blog/es/files/2014/05/Responsinator.jpg" alt="" width="470" height="242" /></p>
+<h4>6. <a href="http://moz.com/webinars " target="_blank">Mozinars</a> by Moz</h4>
+<h5>Webinars de Marketing</h5>
+<p>Aunque no se trata de una herramienta, los Mozinars de Moz son webinars altamente valiosos que enseñan todo lo que necesitas saber sobre marketing online. Estos webinars gratuitos duran normalmente entre 45 min y una hora y media y te dan la posibilidad de dirigir tus preguntas directamente al equipo de Moz. Regístrate en los siguientes Mozinars o prueba a ver las sesiones previas para aprender cómo desarrollar contenido atractivo para tu negocio online que ayude a atraer tráfico, impulsar el SEO o mejorar la tasa de conversión.</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-11402" title="Moz" src="http://www.prestashop.com/blog/es/files/2014/05/Moz.jpg" alt="" width="300" height="200" /></p>
+<h4>7. <a href="https://www.canva.com/" target="_blank">Canva </a></h4>
+<h5>Diseño Gráfico</h5>
+<p>Canva es un sitio web que facilita muchísimo la creación de buenos diseños gráficos. Crea fácilmente flyers, presentaciones, portadas de Facebook, elementos gráficos para el blog, invitaciones y más. Con las funciones de búsqueda y arrastre visual, podrás realizar diseños de calidad profesional. Es una genial herramienta para crear diseños personalizados para tus campañas de email marketing, redes sociales y páginas de aterrizaje.</p>
+<p><iframe src="//www.youtube.com/embed/3FZGN7BCs6k?rel=0" frameborder="0" width="560" height="315"></iframe></p>
+<h4>8. <a href="https://hootsuite.com/ " target="_blank">Hootsuite</a></h4>
+<h5>Gestión de Redes Sociales</h5>
+<p>Hootsuite te permite gestionar distintas cuentas en redes sociales desde un solo cuadro de mandos. Programa las entradas en redes sociales de tu tienda online por anticipado y atrae más tráfico a tu tienda online. Ahora, la gestión tus redes sociales puede ser rápida y eficiente.</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-11400" title="Hootsuite" src="http://www.prestashop.com/blog/es/files/2014/05/Hootsuite.jpg" alt="" width="628" height="199" /></p>
+<h4>9. <a href="http://feedly.com/#discover " target="_blank">Feedly</a></h4>
+<h5>Suscripciones RSS</h5>
+<p>Feedly recoge tus sitios favoritos, blogs, canales Youtube y RSS en un solo lugar. Explora distintas temáticas o busca tus sitios preferidos y centraliza todas las noticias en un único lugar. Esta es una buena forma de suscribirte a tus publicaciones ecommerce preferidas – incluyendo el blog de PrestaShop – para que nunca te pierdas una.</p>
+<p><img class="aligncenter size-large wp-image-11399" title="Feedly" src="http://www.prestashop.com/blog/es/files/2014/05/Feedly-1024x444.jpg" alt="" width="584" height="253" /></p>
+<h4>10. Portent’s <a href="http://www.portent.com/tools/title-maker/ " target="_blank">Content Idea Generator</a></h4>
+<h5>Planificación de Contenidos</h5>
+<p>¿No sabes sobre qué escribir en el blog? El Generador de Ideas de Contenido de Portent te permite introducir el asunto sobre el que quieres escribir y genera títulos de la entrada del blog por ti. Quizás necesites buscar varias veces hasta que encuentres una a tu gusto, aun así mejora las horas de brainstorming e investigación.</p>
+<p><img class="aligncenter size-large wp-image-11397" title="Content Idea Generator" src="http://www.prestashop.com/blog/es/files/2014/05/Content-Idea-Generator-1024x497.jpg" alt="" width="584" height="283" /></p>
+<p>&#8211;<br />
+A medida que crece tu negocio, quizás necesites subir a la versión de pago, pero todos estos sitios y aplicaciones son gratis al comienzo. ¿Sabías que hay cientos de herramientas e-commerce gratuitas de serie en PrestaShop? <a href="http://www.prestashop.com/es/descarga" target="_blank">Descarga PrestaShop</a> gratis ahora o <a href="http://www.prestashop.com/es/demo" target="_blank">prueba nuestra demo</a> y fíjate en todo lo que te has estado perdiendo.</p>
+<p>¿Nos olvidamos de algo? Comparte tus herramientas online preferidas con el resto de la Comunidad en los comentarios o escribiéndonos a <a href="https://twitter.com/prestashop" target="_blank">@PrestaShop</a> en Twitter.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/10-herramientas-gratuitas-imprescindibles-para-los-profesionales-del-ecommerce/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Gira Mundial de PrestaShop: ¿Qué ocurre en Brasil?</title>
+		<link>http://www.prestashop.com/blog/es/gira-mundial-de-prestashop-que-ocurre-en-brasil/</link>
+		<comments>http://www.prestashop.com/blog/es/gira-mundial-de-prestashop-que-ocurre-en-brasil/#comments</comments>
+		<pubDate>Wed, 30 Apr 2014 12:42:37 +0000</pubDate>
+		<dc:creator>Quentin Audrain</dc:creator>
+				<category><![CDATA[PrestaShop World Tour]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11384</guid>
+		<description><![CDATA[Aquí estamos, en uno de los mercados ecommerce más dinámicos de Sudamérica: ¡Brasil! Brasil es un país de emprendedores natos. Tienen muy interiorizada la idea de montar un negocio propio y la popularidad con la que cuentan las compras online &#8230; <a href="http://www.prestashop.com/blog/es/gira-mundial-de-prestashop-que-ocurre-en-brasil/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Aquí estamos, en uno de los mercados ecommerce más dinámicos de Sudamérica: <span style="color: #333333;"><strong>¡Brasil!</strong></span></p>
+<p>Brasil es un país de emprendedores natos. Tienen muy interiorizada la idea de montar un negocio propio y la popularidad con la que cuentan las compras online les facilita el éxito a los brasileños.</p>
+<p><img class="aligncenter size-full wp-image-11386" title="Sao Paulo Brazil PrestaShop World Tour Header" src="http://www.prestashop.com/blog/es/files/2014/04/Sao-Paulo-Brazil-PrestaShop-World-Tour-Header.jpg" alt="" width="580" height="281" /><br />
+<span id="more-11384"></span><br />
+Además, este país es el quinto mercado online más grande del mundo y representa el 60% de todo el comercio electrónico B2C de Sudamérica. Brasil cuenta con una vasta red de minoristas online, lo que le convierte en un objetivo clave para cualquier minorista online internacional que quiera incrementar su base de clientes en el mercado sudamericano.</p>
+<p><a href="http://www.prestashop.com/blog/es/files/2014/04/Sao-Paulo-PrestaShop-World-Tour.jpg"><img class="aligncenter size-full wp-image-11385" title="Sao Paulo PrestaShop World Tour" src="http://www.prestashop.com/blog/es/files/2014/04/Sao-Paulo-PrestaShop-World-Tour.jpg" alt="" width="580" height="330" /></a></p>
+<p>Allí conocimos a Bruna, de Agencia Web Shop en Sao Paulo. Ella es un miembro muy activo dentro de la Comunidad PrestaShop y la primera profesional/agencia certificada de Brasil.</p>
+<p>Presta atención a la entrevista y descubre lo que Agencia Web Shop puede contarnos sobre el ecommerce en Brasil.</p>
+<p><iframe src="//player.vimeo.com/video/93349189" frameborder="0" width="500" height="281"></iframe></p>
+<p><a href="http://vimeo.com/93349189">PrestaShop World Tour: Agencia Web Shop, Sao Paulo</a> from <a href="http://vimeo.com/prestashop">PrestaShop</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><strong><br />
+<span style="color: #000080;">Próxima parada: LIMA, ¡PERÚ!</span></strong></p>
+<p>¿Te gustaría que tu ciudad o tu tienda PrestaShop sean destacadas? ¿Te apetecería compartir algunas de las curiosidades del ecommerce de tu país? Déjanos un comentario debajo o cuéntanoslo en <a href="https://twitter.com/PrestaShop" target="_blank">Twitter</a> utilizando el hashtag <span style="color: #333333;"><strong>#PSWorldTour</strong></span>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/gira-mundial-de-prestashop-que-ocurre-en-brasil/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Gira mundial de PrestaShop: Argentina, ¡Nuestra primera parada en Sudamérica!</title>
+		<link>http://www.prestashop.com/blog/es/gira-mundial-de-prestashop-argentina-nuestra-primera-parada-en-sudamerica/</link>
+		<comments>http://www.prestashop.com/blog/es/gira-mundial-de-prestashop-argentina-nuestra-primera-parada-en-sudamerica/#comments</comments>
+		<pubDate>Wed, 23 Apr 2014 13:41:46 +0000</pubDate>
+		<dc:creator>Quentin Audrain</dc:creator>
+				<category><![CDATA[PrestaShop World Tour]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11372</guid>
+		<description><![CDATA[Ha llegado el momento de descubrir el e-commerce en un nuevo continente. Nos dirigimos a Argentina, ¡nuestra primera parada en Sudamérica! Aunque el e-commerce de aquí aún está dando sus primeros pasos, crece de forma exponencial. Este crecimiento se debe &#8230; <a href="http://www.prestashop.com/blog/es/gira-mundial-de-prestashop-argentina-nuestra-primera-parada-en-sudamerica/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Ha llegado el momento de descubrir el e-commerce en un nuevo continente. Nos dirigimos a Argentina, ¡nuestra primera parada en Sudamérica!</p>
+<p style="text-align: left;"><img class="aligncenter  wp-image-11373" title="Buenos Aires Argentina World Tour Main Image" src="http://www.prestashop.com/blog/es/files/2014/04/Buenos-Aires-Argentina-World-Tour-Main-Image.jpg" alt="" width="522" height="317" /><br />
+<span id="more-11372"></span><br />
+Aunque el e-commerce de aquí aún está dando sus primeros pasos, crece de forma exponencial. Este crecimiento se debe en parte a las <a href="http://postandparcel.info/59698/news/regulation/argentina-imposes-tight-restrictions-on-cross-border-e-commerce/" target="_blank">regulaciones del gobierno</a> sobre e-commerce extranjero. A cada ciudadano solo se le permiten 2 compras al año a tiendas online internacionales.<img class="aligncenter size-full wp-image-11374" title="Buenos Aires Argentina World Tour" src="http://www.prestashop.com/blog/es/files/2014/04/Buenos-Aires-Argentina-World-Tour.jpg" alt="" width="580" height="323" /></p>
+<p>Restricciones como estas ayudan a los negocios locales a crecer más deprisa. Así mismo ha ayudado a poner a Argentina en el mapa del e-commerce. Las ventas online en Argentina superaron los $4000 millones, convirtiéndoles en el mayor mercado online de Sudamérica.</p>
+<p>Nos reunimos con Xavier Protto de <a href="http://www.prottoesnaola.com/2012/ " target="_blank">Protto+Esnaola</a> para aprender más sobre el entorno dinámico en el que irrumpimos. Ven a descubrirlo.</p>
+<p><iframe src="//player.vimeo.com/video/92731079" frameborder="0" width="500" height="281"></iframe></p>
+<p><a href="http://vimeo.com/92731079">Ecommerce WorldTour &#8211; Protto+Esnaola Agency, Buenos Aires</a> from <a href="http://vimeo.com/prestashop">PrestaShop</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p>Siguiente Parada: <span style="color: #0000ff;"><strong>SAO PAULO</strong></span></p>
+<p>Participa en la Gira Mundial de PrestaShop con el hashtag #PSWorldTour y sigue nuestro viaje en <a href="https://twitter.com/PrestaShop" target="_blank">Twitter</a>, <a href="http://instagram.com/prestashop" target="_blank">Instagram</a> y <a href="https://www.facebook.com/prestashop " target="_blank">Facebook</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/gira-mundial-de-prestashop-argentina-nuestra-primera-parada-en-sudamerica/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Las Listas de Control más Inteligentes para Gestionar tu Tienda Online</title>
+		<link>http://www.prestashop.com/blog/es/las-listas-de-control-mas-inteligentes-para-gestionar-tu-tienda-online/</link>
+		<comments>http://www.prestashop.com/blog/es/las-listas-de-control-mas-inteligentes-para-gestionar-tu-tienda-online/#comments</comments>
+		<pubDate>Tue, 22 Apr 2014 15:13:07 +0000</pubDate>
+		<dc:creator>Julie Liu</dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11353</guid>
+		<description><![CDATA[Hacemos listas para todo – desde la lista de la compra semanal hasta la lista de propósitos anuales. Estas listas de control nos ayudan a organizarnos y no dejarnos nada atrás. Por este motivo hemos creado las listas de control &#8230; <a href="http://www.prestashop.com/blog/es/las-listas-de-control-mas-inteligentes-para-gestionar-tu-tienda-online/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Hacemos listas para todo – desde la lista de la compra semanal hasta la lista de propósitos anuales. Estas listas de control nos ayudan a organizarnos y no dejarnos nada atrás. Por este motivo hemos creado las listas de control más inteligentes para gestionar tu tienda online. Hemos recopilado una lista de tareas clave para llevar un negocio online y las hemos agrupado según la frecuencia con la que deben realizarse.<br />
+<img class="aligncenter size-full wp-image-11354" src="http://www.prestashop.com/blog/es/files/2014/04/ES_-Ecommerce-Checklist.jpg" alt="" width="580" height="299" /> <span id="more-11353"></span>Las siguientes listas de control está desglosadas según la frecuencia – a diario, semanalmente o mensualmente. Además hemos ido un paso más allá y las hemos organizado según su función dentro del negocio. A continuación mostramos el tipo de tareas según su importancia:</p>
+<p style="padding-left: 30px">• <strong>Operaciones </strong>(necesarias para mantener el negocio funcionando)<br />
+• <strong>Atención al Cliente </strong>(atender cualquier problema / incidencia de los clientes)<br />
+• <strong>Experiencia de Usuario</strong> (facilitar a tus clientes utilizar tu tienda online)<br />
+• <strong>Reunir Datos </strong>(reunir información de forma proactiva)<br />
+• <strong>Planear</strong> (planificar de cara a próximos eventos)<br />
+• <strong>Analizar</strong> (extraer conclusiones de los datos recogidos)</p>
+<h4><span style="color: #dc143c">La Lista de Control Diaria de PrestaShop:</span></h4>
+<p>La lista de control diaria debería completarse… a diario. Debería así mismo ser completada en el orden mostrado. Aunque recoger datos tiene menor prioridad que operaciones o atención al cliente, estas tareas son fáciles de completar. Que sean las primeras de la mañana, sino después se quedarán atrás.</p>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="432">    √  Leer Noticias relacionadas con tu Industria</td>
+<td style="text-align: center" valign="top" width="144">REUNIR DATOS</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Leer Noticias sobre Tiendas Online</td>
+<td style="text-align: center" valign="top" width="144">REUNIR DATOS</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Anotar Cualquier Idea / Problema con Tu Sitio</td>
+<td style="text-align: center" valign="top" width="144">REUNIR DATOS</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  <a href="http://www.prestashop.com/blog/es/gestione-la-logistica-de-su-tienda-online-desde-dentro/" target="_blank">Gestionar la Logística</a> (Satisfacer, Procesar y Empacar Pedidos)</td>
+<td style="text-align: center" valign="top" width="144">OPERACIONES</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Leer y Responder los Emails al Servicio de Atención al Cliente</td>
+<td style="text-align: center" valign="top" width="144">AT. CLIENTES</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Participar / Publicar Contenido en Redes Sociales</td>
+<td style="text-align: center" width="144">AT. CLIENTES</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Leer / Atender Comentarios de Clientes (en Redes Sociales)</td>
+<td style="text-align: center" width="144">AT. CLIENTES</td>
+</tr>
+</tbody>
+</table>
+<div></div>
+<div></div>
+<h4><span style="color: #dc143c">La Lista de Control Semanal de PrestaShop:</span></h4>
+<p>La lista de control semanal deberías completarla el día de la semana con menor número de ventas. Si trabajas de lunes a viernes, cualquier día entremedio. De esta forma, tendrás tiempo de sobra ese día para completar la lista de control diaria y semanal.</p>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="432">    √  Satisfacer Pedidos de Otros Mercados</td>
+<td style="text-align: center" valign="top" width="144">OPERACIONES</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Realizar Seguimiento de tus Envíos</td>
+<td style="text-align: center" valign="top" width="144">OPERACIONES</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Procesar Devoluciones / Descambio</td>
+<td style="text-align: center" valign="top" width="144">OPERACIONES</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  (Si múltiples divisas) Actualizar Tasas de Cambio</td>
+<td style="text-align: center" valign="top" width="144">OPERACIONES</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Reabastecimiento / Reordenar Inventario &amp; Suministros</td>
+<td style="text-align: center" width="144">OPERACIONES</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Tareas de Contabilidad / Balances (En serio, no lo dejes pasar)</td>
+<td style="text-align: center" valign="top" width="144">OPERACIONES</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Mantener el Contacto con los Clientes Recomendados</td>
+<td style="text-align: center" valign="top" width="144">AT. CLIENTES</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Probar Proceso de Pago (Todo los Procesadores de Pago)</td>
+<td style="text-align: center" valign="top" width="144">EXPE. USUARIO</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Probar Filtros de Producto<br />
+<span style="color: #ffffff">.</span>            (Debería Devolver Resultados Acertados)</td>
+<td style="text-align: center" valign="top" width="144">EXPE. USUARIO</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Probar todos los enlaces (Sin Páginas <a title="Error HTTP 404 Página No Encontrada –Explicado y Resuelto" href="http://www.prestashop.com/blog/es/error-http-404-pagina-no-encontrada-explicado-y-resuelto/" target="_blank">de Error 404</a>)</td>
+<td style="text-align: center" valign="top" width="144">EXPE. USUARIO</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Probar la Búsqueda para Mejorar la Búsqueda Inteligente</td>
+<td style="text-align: center" valign="top" width="144">EXPE. USUARIO</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Probar en Dispositivos Móviles</td>
+<td style="text-align: center" valign="top" width="144">EXPE. USUARIO</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Probar la Tienda Online en Todos los Navegadores</td>
+<td style="text-align: center" valign="top" width="144">EXPE. USUARIO</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Probar Cada Categoría (Debería Contener Productos)</td>
+<td style="text-align: center" valign="top" width="144">EXPE. USUARIO</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Revisar Ventas</td>
+<td style="text-align: center" valign="top" width="144">ANALIZAR</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Revisar tus Campañas de Marketing / Ventas</td>
+<td style="text-align: center" valign="top" width="144">ANALIZAR</td>
+</tr>
+</tbody>
+</table>
+<h4></h4>
+<h4><span style="color: #dc143c">La Lista de Control <strong>Mensual</strong> de PrestaShop:</span></h4>
+<p>La lista de control mensual no debería realizarse en ningún día concreto sino a lo largo del mes. Cuando distribuyas las tareas, agrúpalas por funciones – de esta manera completarás tareas similares. Las tareas más importantes en la planificación mensual son las planear. Así mismo también son importantes las tareas de analizar los datos de venta – los cuales te ayudarán a planear.</p>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="432">    √  Planear Próximas Temporadas de Venta<br />
+<span style="color: #ffffff">.</span>            (incluye <a title="Fechas Importantes de Venta para Vendedores Online en 2014" href="http://www.prestashop.com/blog/es/fechas-importantes-de-venta-para-vendedores-online-en-2014/" target="_blank">Fechas Importantes de Compra</a>)</td>
+<td style="text-align: center" valign="top" width="144">PLANEAR</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Planear Publicidad / Marketing (para un mes)</td>
+<td style="text-align: center" valign="top" width="144">PLANEAR</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Describir Entradas en las Redes Sociales (para un mes)</td>
+<td style="text-align: center" valign="top" width="144">PLANEAR</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Revisar Ventas</td>
+<td style="text-align: center" width="144">ANALIZAR</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Definir Los Mejor Vendidos</td>
+<td style="text-align: center" width="144">ANALIZAR</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Definir Los Peor Vendidos</td>
+<td style="text-align: center" width="144">ANALIZAR</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Pronosticar Ventas</td>
+<td style="text-align: center" width="144">ANALIZAR</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Anotar Los Mejores Clientes</td>
+<td style="text-align: center" valign="top" width="144">ANALIZAR</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Actualizar la lista de emails inscritos al Boletín</td>
+<td style="text-align: center" valign="top" width="144">OPERACIONES</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Vigilar los Precios de la Competencia</td>
+<td style="text-align: center" valign="top" width="144">REUNIR DATOS</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Suscribirte al Boletín de la Competencia</td>
+<td style="text-align: center" valign="top" width="144">REUNIR DATOS</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Solicitar <a href="http://www.usertesting.com/" target="_blank">Opinión sobre tu Sitio</a></td>
+<td style="text-align: center" valign="top" width="144">REUNIR DATOS</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Probar la Velocidad de tu Página</td>
+<td style="text-align: center" valign="top" width="144">EXPE. USUARIO</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Asegurarse de que Cada Página tiene una<br />
+<span style="color: #ffffff">.</span>            <a title="La importancia de los botones de llamada a la acción en su tienda online" href="http://www.prestashop.com/blog/es/la-importancia-de-los-botones-de-llamada-a-la-accion-en-su-tienda-online/" target="_blank">Llamada a la Acción Clara</a> (Añadir al Carrito)</td>
+<td style="text-align: center" valign="top" width="144">EXPE. USUARIO</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Probar Banner de Suscripción al Boletín</td>
+<td style="text-align: center" valign="top" width="144">EXPE. USUARIO</td>
+</tr>
+<tr>
+<td valign="top" width="432">    √  Actualizar Banners para Destacar las Ofertas Actuales</td>
+<td style="text-align: center" valign="top" width="144">EXPE. USUARIO</td>
+</tr>
+</tbody>
+</table>
+<div>
+<p>Descarga e imprime <a href="http://www.prestashop.com/blog/en/files/2014/04/ES-The-PrestaShop-Smart-Checklists-to-Manage-your-Online-Store.pdf" target="_blank">las listas de control diario, semanal y mensual</a>  y comienza a organizar tu agenda e-commerce. Comparte otras tácticas que te ayuden a organizar su calendario con nosotros en los comentarios. También avísanos si nos hemos dejado alguna tarea importante en el tintero.</p>
+<div>
+<hr align="left" size="2" width="33%" />
+</div>
+<p>¿Todavía no vendes en Internet? <a href="http://www.prestashop.com/es/demo" target="_blank">Prueba </a>PrestaShop y descubre por qué es la mejor plataforma para vender online o <a href="http://www.prestashop.com/es/descarga" target="_blank">descárgate </a>el mejor software de comercio electrónico y ¡comienza a vender hoy!</p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/las-listas-de-control-mas-inteligentes-para-gestionar-tu-tienda-online/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cómo elegir un proveedor de hospedaje web para tu tienda online</title>
+		<link>http://www.prestashop.com/blog/es/como-elegir-un-proveedor-de-hospedaje-web-para-tu-tienda-online/</link>
+		<comments>http://www.prestashop.com/blog/es/como-elegir-un-proveedor-de-hospedaje-web-para-tu-tienda-online/#comments</comments>
+		<pubDate>Mon, 21 Apr 2014 13:53:34 +0000</pubDate>
+		<dc:creator>Julie Liu</dc:creator>
+				<category><![CDATA[Asociados PrestaShop]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11336</guid>
+		<description><![CDATA[Si estas comenzando tu propio negocio online, este artículo puede resultarte de gran ayuda. En primer lugar, queremos felicitarte, pues es fundamental informarse para tomar las decisiones iniciales correctas en la creación de tu tienda online. Probablemente hayas escuchado que &#8230; <a href="http://www.prestashop.com/blog/es/como-elegir-un-proveedor-de-hospedaje-web-para-tu-tienda-online/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Si estas comenzando tu propio negocio online, este artículo puede resultarte de gran ayuda. En primer lugar, queremos felicitarte, pues es fundamental informarse para tomar las decisiones iniciales correctas en la creación de tu tienda online.</p>
+<p>Probablemente hayas escuchado que es esencial un buen proveedor de hosting, pero con tantas opciones disponibles, ¿cómo elegir la mejor? Estos son los 5 aspectos más importantes:</p>
+<p style="text-align: center"><img class="aligncenter  wp-image-11337" src="http://www.prestashop.com/blog/es/files/2014/04/ES-InMotion-Hosting-Main.jpg" alt="" width="580" height="278" /></p>
+<p><span id="more-11336"></span></p>
+<h2><span style="color: #696969">1. Velocidad</span></h2>
+<p>Vivimos en un mundo donde todo cambia deprisa y en internet más aún, buscamos información precisa y la queremos al instante. Desde que Google comenzó a tener en cuenta el tiempo de carga de las páginas como factor SEO, la velocidad de carga se ha convertido en un elemento esencial. Afecta a la conversión de tu tienda, el posicionamiento en los motores de búsqueda y el trámite del pago. Según <a href="http://blog.kissmetrics.com/loading-time/" target="_blank">esta infografía</a> vemos que cada segundo cuenta y que un nivel de velocidad de carga bajo es un factor correlacionado con páginas abandonadas y ventas perdidas.</p>
+<p>El hosting es, sin duda, el principal factor cuando se habla de la velocidad de carga. Un hosting de buena calidad es indispensable, por eso PrestaShop se ha asociado con InMotion Hosting, líder mundial en alojamiento de páginas web. Con centros de datos múltiples, InMotion ofrece la velocidad de carga más rápida en todo el mundo.</p>
+<h2><span style="color: #696969">2. Atención al cliente</span></h2>
+<p>Cuando consideres un hosting, elige la compañía con la mejor atención al cliente. Tener una tienda online significa estar conectado constantemente, por eso <a href="https://secure1.inmotionhosting.com/cgi-bin/gby/clickthru.cgi?id=prestashop&amp;page=344" target="_blank">InMotion Hosting</a> brinda un servicio de atención al cliente disponible las 24 horas. Puedes chatear con el equipo de ventas, llamar por teléfono, o participar en los foros para obtener la información que necesites. Además, ¡InMotion ofrece un canal educativo especial para los usuarios de PrestaShop!</p>
+<p>Verifica que el proveedor de hosting también tenga buenos ratings. Compañías como BBB y Cnet han otorgado calificaciones perfectas a InMotion durante cuatro años consecutivos, demostrando el nivel de confianza del equipo de atención al cliente.</p>
+<p style="text-align: center"><img class="aligncenter size-full wp-image-11339" src="http://www.prestashop.com/blog/es/files/2014/04/logo.png" alt="" width="137" height="83" /></p>
+<h2><span style="color: #696969">3. Almacenamiento en disco</span></h2>
+<p>Las medidas que diferencian a los distintos proveedores de hosting son el espacio o capacidad en disco y la transferencia de datos permitida. El espacio en disco es la cantidad de datos o información que puedes almacenar en tu cuenta de hosting. La cantidad de almacenamiento que requieres tiene una relación directa con el tamaño de la página web que vayas a instalar. Dependiendo de cuántas imágenes y videos necesites para tu tienda online, puedes necesitar cantidades importantes de almacenamiento.</p>
+<p>Hay empresas de hospedaje web que limitan la cantidad de datos que puedes almacenar y la cantidad de transferencias que puedes hacer por mes. Pero, proveedores como InMotion ofrecen almacenamiento y transferencias ilimitadas ya que son esenciales al empezar tu tienda online.</p>
+<h2><span style="color: #696969">4. Dominios</span></h2>
+<p>El dominio es el nombre que identifica una página web. Todos los dominios son únicos en Internet, y se identifican con: www, el nombre de la web, extensión o tipo de organización. Lee la entrada del blog de PrestaShop para saber cómo <a href="http://www.prestashop.com/blog/es/como-elegir-el-dominio-adecuado-para-su-tienda-online/" target="_blank">elegir un domino adecuado</a>.</p>
+<p>Conseguir un dominio gratuito puede ser una buena idea, pero recomendamos disponer también de otras opciones. Los dominios adicionales sirven como reserva en caso de que necesites más páginas web. Por ejemplo, si buscas la página web www.prestashop.org serás automáticamente redirigido a www.prestashop.com. Con 6 dominios incluidos, InMotion te ayudará a encontrar fácilmente los dominios perfectos para tu tienda online.</p>
+<p style="text-align: center"><img class="aligncenter size-full wp-image-11340" src="http://www.prestashop.com/blog/es/files/2014/04/www.jpg" alt="" width="150" height="120" /></p>
+<h2><span style="color: #696969">5. Seguridad</span></h2>
+<p>Un certificado SSL (Secure Socket Layer) sirve para asegurar al visitante sobre la página web, una manera de decir a tus clientes que el sitio es auténtico, real y de confianza para introducir datos personales. Es un protocolo de seguridad que hace que tus datos viajen de manera íntegra y segura para evitar que los hackers roben la información confidencial de tus clientes. InMotion ofrece páginas con SSL privados para prevenir cualquier inconveniente.</p>
+<p style="text-align: center"><img class="aligncenter  wp-image-11338" src="http://www.prestashop.com/blog/es/files/2014/04/InMotion-Hosting-Logo.png" alt="" width="271" height="107" /></p>
+<p>Además de cumplir y superar las 5 funciones más importantes de un proveedor de alojamiento web, InMotion también ofrece a los usuarios de PrestaShop:</p>
+<p style="padding-left: 30px">• 99.99% uptime<br />
+• Backups automáticos<br />
+• +300 aplicaciones gratis<br />
+• Cuentas de correo electrónico protegidas<br />
+• Devolución de dinero</p>
+<p>¡Comienza tu tienda online hoy mismo! Asegúrate de unos tiempos de carga óptimos gracias al pack PrestaShop preinstalado en InMotion Hosting a un <a href="https://secure1.inmotionhosting.com/cgi-bin/gby/clickthru.cgi?id=prestashop&amp;page=344" target="_blank">precio especial</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/como-elegir-un-proveedor-de-hospedaje-web-para-tu-tienda-online/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Case Study: Estrategia de comunicación en Redes Sociales de Harry Fay</title>
+		<link>http://www.prestashop.com/blog/es/case-study-estrategia-de-comunicacion-en-redes-sociales-de-harry-fay/</link>
+		<comments>http://www.prestashop.com/blog/es/case-study-estrategia-de-comunicacion-en-redes-sociales-de-harry-fay/#comments</comments>
+		<pubDate>Tue, 15 Apr 2014 19:17:08 +0000</pubDate>
+		<dc:creator>Julie Liu</dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11326</guid>
+		<description><![CDATA[El día de la madre es una de las fechas más importantes para el comercio electrónico. Es el día en el que los niños alrededor del mundo compran regalos para sus mamás y demuestran el amor y cariño que tienen &#8230; <a href="http://www.prestashop.com/blog/es/case-study-estrategia-de-comunicacion-en-redes-sociales-de-harry-fay/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>El día de la madre es una de las fechas más importantes para el comercio electrónico. Es el día en el que los niños alrededor del mundo compran regalos para sus mamás y demuestran el amor y cariño que tienen por ellas. <a href="http://www.harryfay.co.uk/" target="_blank">Harry Fay</a> es una joyería del Reino Unido &#8211; y comerciante de PrestaShop &#8211; que capitalizo las ventas de este día tan especial.</p>
+<p style="text-align: center"><img class="aligncenter size-full wp-image-11327" src="http://www.prestashop.com/blog/es/files/2014/04/HarryFay-Logo.png" alt="" width="326" height="95" /></p>
+<p>El equipo de Harry Fay pensó en hacer una campaña para el día de la madre con Google AdWords. Sin embargo, descubrieron que los precios para posicionar anuncios en google estaban sobresaturados. Por eso, optaron por hacer una campaña de social media. El objetivo de la campaña era acumular la mayor cantidad de seguidores en Twitter, para después convertirlos en compradores. Dos semanas tras el comienzo de la campaña, los seguidores de Twitter aumentaron un 5.400%. Te mostramos cómo este comerciante de PrestaShop construyo una exitosa campaña de social media.</p>
+<p><span id="more-11326"></span></p>
+<h4><img class="aligncenter size-large wp-image-11328" src="http://www.prestashop.com/blog/es/files/2014/04/HarryFay-Main-1024x711.jpg" alt="" width="584" height="405" /></h4>
+<h4><span style="color: #009999">El Desafío:</span></h4>
+<p>Harry Fay es una joyería gestionada por la familia Gorecki, quienes se especializan en vender joyas de plata hechas a mano, garantizando creatividad y originalidad. Tras configurar su tienda con PrestaShop, Harry Fay comenzó a vender sus joyas online. La tienda con estilo único y propio esperaba atraer altas ventas para el día de la madre, un día identificado por la cantidad de comprar echas mundialmente. El plan inicial de Harry Fay era conquistar a los internautas con una campaña de Google AdWords, pero con un CPC a más de £1 por clic, decidieron que el mercado no era factible.</p>
+<h4><span style="color: #009999">El objetivo:</span></h4>
+<p>Con esa recaída, el equipo de Harry Fay consultó con una agencia de medios y comunicación sobre sus campañas de social media. Específicamente, querían aprender usar su cuenta de <a href="https://twitter.com/harryfaycouk" target="_blank">Twitter </a>que solo tenía 27 seguidores. También eligieron crecer orgánicamente, lo que significa que excluyeron anuncios patrocinados en la página de Twitter.</p>
+<p>El objetivo de la campaña era:</p>
+<p style="padding-left: 30px">1. Aumentar ventas en el día de la madre<br />
+2. Agregar seguidores e incrementar visibilidad en las redes sociales</p>
+<h4><span style="color: #009999">Primer Paso: Organizar un Sorteo</span></h4>
+<p>La familia de Harry Fay entendió que para tener éxito en Twitter, necesitaban crear contenido interesante y compartible. Comenzaron la campaña con una imagen que transmitió un mensaje claro y atractivo, &#8220;participa en nuestro sorteo.&#8221; Para ganar, los participantes tenían que seguir la cuenta de Twitter <a href="https://twitter.com/harryfaycouk" target="_blank">@HarryFayCoUk</a> y Retwittear la imagen, asegurando que el sorteo aumente la cantidad de seguidores.</p>
+<p><img class="aligncenter size-full wp-image-11330" src="http://www.prestashop.com/blog/es/files/2014/04/harryFay-twitter-main.PNG.jpg" alt="" width="575" height="378" /></p>
+<p>La campaña incrementó los seguidores de Twitter por 5.400%. En sólo 2 semanas, ¡la cuenta de Harry Fay en Twitter sobrepaso los 1.500 seguidores! Afortunadamente, mantuvieron el número de seguidores tras la conclusión del sorteo.</p>
+<h4><span style="color: #009999">Segundo Paso: Convertir Seguidores en Compradores</span></h4>
+<p>Después de conseguir miles de seguidores, Harry Fay intentó convertir a los seguidores en compradores. Primero, ofrecieron códigos con un 10% de descuento para todos los internautas. Esto los ayudo a generar más interés en la marca, pero no produzco las conversiones necesarias. Con la conclusión del sorteo, Harry Fay empezó otra campaña y regaló £10 a todos sus seguidores en Twitter. Esta vez, lograron atraer a muchos más visitantes a su tienda online pero a pesar de que las dos campañas atrajeron seguidores en la red social de Twitter, no alcanzaron las ventas proyectadas.</p>
+<h4><span style="color: #009999">Puntos Claves:</span></h4>
+<p>Harry Fay logro exitosamente uno de sus dos objetivos: aumentar significativamente la cantidad de seguidores en Twitter, pero fue incapaz de convertir a muchos de ellos en clientes. De todos modos, durante la ejecución de la campaña, obtuvieron información valiosa sobre cómo gestionar sus redes sociales.<br />
+Aprendieron que:</p>
+<p style="padding-left: 30px">1. A pesar de que las redes sociales ocurren en tiempo real, la presencia en las redes sociales debe ser una estrategia a largo plazo.<br />
+2. Los medios de comunicación sociales son herramientas de marketing gratificantes, pero para llevar a cabo una campaña de Twitter exitosa, hay que hacerlo en el momento adecuado. Además, deben encontrar el equilibrio perfecto entre twittear lo suficiente para mantener al público interesado pero sin hacerlo tan seguido que se convierte en una molestia.<br />
+3. Crear sorteos en las redes sociales puede ser una forma efectiva de ganar seguidores nuevos. Sin embargo, cuando mides las conversiones de tu tienda online, debes tener en cuenta aquellos seguidores únicamente interesados en los premios. Estos seguidores no están interesados en hacer compras y disminuyen la tasa de conversión.</p>
+<h4><span style="color: #009999">El Caso de Éxito:</span></h4>
+<p>El gran éxito de esta campaña fue la exposición incomparable que logró Harry Fay en las redes sociales. Con miles de seguidores nuevos, ganaron popularidad entre varios bloggers y atrajeron a una de las revistas de moda más importantes.</p>
+<p style="text-align: center"><img class="aligncenter  wp-image-11329" src="http://www.prestashop.com/blog/es/files/2014/04/HarryFay-Success-Feature.png" alt="" width="484" height="90" /></p>
+<p>¡Felicidades Harry Fay! Gracias por compartir el estudio para el caso de éxito de esta semana. ¡Les deseamos todo lo mejor!</p>
+<p>_____________</p>
+<p>¿Buscan más inspiración? Échale un vistazo a otras tiendas creadas con PrestaShop que fueron parte de nuestros <a title="Caso de Éxito: SelfPackaging con cajitas muy muy chulas" href="http://www.prestashop.com/blog/es/caso-de-exito-selfpackaging-con-cajitas-muy-muy-chulas/" target="_blank">casos de éxito</a>. ¿Quieres empezar tu propia tienda online? ¡Usa nuestro <a href="http://www.prestashop.com/es/demo" target="_blank">Demo </a>o <a href="http://www.prestashop.com/es/descarga" target="_blank">descarga </a>la plataforma de PrestaShop!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/case-study-estrategia-de-comunicacion-en-redes-sociales-de-harry-fay/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Served from: www.prestashop.com @ 2014-05-28 04:56:03 -->

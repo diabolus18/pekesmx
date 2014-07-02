@@ -1,0 +1,53 @@
+/* Block newsletter */
+#newsletter_block_left {
+	clear:both;
+	border-top:1px solid #d6d6d6;
+	padding:30px 20px 19px 0;
+	width:100%;
+	overflow:hidden;
+	margin-top:10px;
+}
+#newsletter_block_left .title1{
+	float:left;
+	margin-right:10px;
+	margin-top:9px;
+}
+#newsletter_block_left .block_content{float:left}
+#newsletter_block_left p {}
+
+#newsletter_block_left p.success_inline {
+	color: #418B19;
+	text-align: center;
+	font-weight: bold;
+}
+#newsletter_block_left p.warning_inline {
+	color: #DA0F00;
+	font-weight: bold;
+}
+
+#newsletter_block_left input.inputNew {
+	float:left;
+	width:610px;
+	max-width:642px;
+	max-height:15px;
+}
+*:first-child+html #newsletter_block_left input.inputNew {position:static;}/* hack ie 7 */
+
+#newsletter_block_left input.button_mini {
+	height:35px;
+	border:0;
+	background:url(../../../img/bg/gradient1.png) no-repeat 0 0 #fa5601;
+	border-radius:3px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	-o-border-radius:3px;
+	cursor:pointer; 
+	font-weight:700;
+	font-family:"Dorid Sans", sans-serif;
+	color:#fff;
+	text-transform:uppercase;
+	padding:0 15px;
+	margin-left:-3px;
+}
+
+

@@ -1,0 +1,57 @@
+#sitemap_content {margin-left: 20px}
+#sitemap_content .sitemap_block h3, 
+#sitemap_content .categTree h3 {margin: 20px 0 0 0}
+
+#sitemap_content div.sitemap_block {
+   float: left;
+   padding: 0;
+   width: 33%
+}
+#sitemap_content div.sitemap_block ul {list-style-type:none}
+#sitemap_content div.sitemap_block li {
+	padding: 2px 0 2px 10px;
+	background: url(../img/arrow_right_2.png) no-repeat 0 6px transparent
+}
+
+#listpage_content {margin: 0 0 0 20px;}
+#listpage_content div.categTree {
+   float: left;
+   width: 33%;
+   margin:20px 0;
+}
+#listpage_content div.tree_top {
+   padding: 3px 0 5px 24px;
+   background: url(../img/sitemap-top.gif) no-repeat -1px -3px transparent
+}
+#listpage_content ul {list-style-type:none}
+#listpage_content ul.tree li {
+   margin-left: 11px;
+   padding-left: 20px;
+   border-left: 1px dotted #999;
+   background: url(../img/sitemap-horizontal.png) no-repeat left 10px transparent
+}
+#listpage_content ul.tree li.last {
+   border: medium none;
+   background: url(../img/sitemap-last.gif) no-repeat -12px -2px transparent
+}
+
+/*css custom color*/
+.grid_8 #sitemap_content div.sitemap_block, .grid_8 #listpage_content div.categTree{width:50%}
+
+/*css responsive*/
+@media only screen and (min-width: 1024px) and (max-width: 1279px){/*ipad ngang*/
+	.grid_12 #sitemap_content div.sitemap_block, .grid_12 #listpage_content div.categTree{width:50%}
+}	
+@media only screen and (min-width: 768px) and (max-width: 1023px) {/*ipad doc*/
+	.grid_12 #sitemap_content div.sitemap_block, .grid_12 #listpage_content div.categTree{width:50%}
+}	
+@media only screen and (max-width: 767px) {	
+	#center_column #sitemap_content div.sitemap_block,#center_column #listpage_content div.categTree{width:50%}
+	#listpage_content{margin-bottom:20px}
+}
+@media only screen and (max-width: 479px) {	
+	#center_column #sitemap_content div.sitemap_block,#center_column #listpage_content div.categTree{width:100%; float:none; clear:both}
+}
+
+
+

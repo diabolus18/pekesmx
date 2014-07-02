@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<setting>
+<text_page_color_text>#969696</text_page_color_text>
+<link_page_hover_color_text>#ff5a00</link_page_hover_color_text>
+<header_img>1375756412bg3.jpg</header_img>
+<header_color_bg>#9cca0c</header_color_bg>
+<header_border_color>#c1ef35</header_border_color>
+<bg_title_menu_color_bg>#fd6005</bg_title_menu_color_bg>
+<bg_title_menu_border_color>#ffad5c</bg_title_menu_border_color>
+<bg_title_menu_fstyle>Open Sans</bg_title_menu_fstyle>
+<bg_title_menu_fsize>16</bg_title_menu_fsize>
+<bg_title_menu_fweight2>600</bg_title_menu_fweight2>
+<txt_name_product_color_text>#8ebb01</txt_name_product_color_text>
+<name_product_fsize>14</name_product_fsize>
+<price_normal_product_color_text>#f95501</price_normal_product_color_text>
+<price_normal_product_fsize>18</price_normal_product_fsize>
+<price_normal_product_fweight2>bold</price_normal_product_fweight2>
+<button_default_color_bg>#0063d1</button_default_color_bg>
+<button_default_color_text>#ffffff</button_default_color_text>
+<button_slider_color_bg>#f95501</button_slider_color_bg>
+<button_slider_color_text>#ffffff</button_slider_color_text>
+<button_home_color_bg>#f25900</button_home_color_bg>
+<button_home_color_text>#ffffff</button_home_color_text>
+<bg_title_box1_color_bg>#ffffff</bg_title_box1_color_bg>
+<bg_title_box1_border_color>#f95501</bg_title_box1_border_color>
+<ct_title_box1_color_text>#f95501</ct_title_box1_color_text>
+<title_control_box1_color_bg>#f95501</title_control_box1_color_bg>
+<bg_title_box2_color_bg>#97c701</bg_title_box2_color_bg>
+<bg_title_box2_border_color>#f95501</bg_title_box2_border_color>
+<ct_title_box2_color_text>#ffffff</ct_title_box2_color_text>
+<title_h1_fstyle>Open Sans</title_h1_fstyle>
+<title_h1_fsize>16</title_h1_fsize>
+<title_h1_fweight2>700</title_h1_fweight2>
+<title_h1_color_text>#f95501</title_h1_color_text>
+<title_h2_fstyle>Open Sans</title_h2_fstyle>
+<title_h2_fweight2>700</title_h2_fweight2>
+<title_h2_color_text>#f95501</title_h2_color_text>
+<title_h1_fstyle>Open Sans</title_h1_fstyle>
+<title_h1_fsize>16</title_h1_fsize>
+<title_h1_fweight2>700</title_h1_fweight2>
+<title1_fstyle>Open Sans</title1_fstyle>
+<title1_fsize>12</title1_fsize>
+<title1_fweight2>600</title1_fweight2>
+<title1_color_text>#141414</title1_color_text>
+<thead_fstyle>Open Sans</thead_fstyle>
+<thead_fweight2>600</thead_fweight2>
+<thead_color_text>#141414</thead_color_text>
+<step_order_color_bg>#98c801</step_order_color_bg>
+<dropdown_cart_repeat>no-repeat</dropdown_cart_repeat>
+<dropdown_cart_img>1375756875bg_cart3.png</dropdown_cart_img>
+</setting>

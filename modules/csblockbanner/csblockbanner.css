@@ -1,0 +1,9 @@
+/* BLOCK #reinsurance_block ******************************************************************** */
+#banner_block{clear:both;position:relative;z-index:0}
+#banner_block li{border-radius:4px;-moz-border-radius:4px;margin-bottom:20px;position:relative;}
+#banner_block li a img{max-width:100%;border-radius:4px;-moz-border-radius:4px;display:block}
+#banner_block a.btn{display:none}
+@media only screen and (max-width: 767px) {
+	#banner_block li {float:left;}
+}
+	

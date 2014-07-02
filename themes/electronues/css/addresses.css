@@ -1,0 +1,76 @@
+div.addresses {
+   position:relative;
+}
+
+ul.address {
+   list-style-type:none;
+   float:left;
+   position:relative;
+   width:40%;
+}
+#address_delivery {height:auto !important}
+#address_invoice {margin-right:0; height:auto !important}
+#delivery_address {margin-right:65px;}
+
+ul.address li {
+	
+}
+
+ul.address li.address_title {
+   
+}
+.addresses ul.address li.address_firstname.lastname{color:#141414; }
+.address_update a, .address_delete a{color:#141414; text-decoration:underline;}
+.address_update a:hover, .address_delete a{}
+ul.address .address_alias {
+	font-weight: normal;
+	text-transform: none;
+}
+ul.address li.address_firstname,
+ul.address li.address_company {
+	margin-top:8px
+}
+
+ul.address  li.address_update {
+	margin-top:20px
+}
+ul.address  li.address_update,
+ul.address li.address_delete {
+
+}
+.address_add {
+   padding:20px 0 40px
+}
+.address_select {
+	
+}
+label[for=id_address_delivery], label[for=id_address_invoice] {}
+.addressesAreEquals label {
+	margin-left: 5px;
+}
+.addressesAreEquals input {
+	float: left;
+}
+p.address_delivery {
+	padding-bottom: 14px
+}
+p.addressesAreEquals{padding-bottom:24px}
+p#address_invoice_form.select{padding-bottom:40px}
+/* PAGE ADRESSES ******************************************************************************* */
+.addresses ul.address {
+   list-style-type:none;   
+}
+.addresses ul.address.alternate_item,
+.addresses ul.address.last_item {margin-right:0}
+.addresses ul.address li {
+	line-height:1.5em;
+}
+.addresses ul.address .address_title {
+	
+}
+.addresses ul.address .address_update {margin-top:20px}
+.addresses ul.address .address_update,
+.addresses ul.address .address_delete {
+	
+}
+

@@ -1,0 +1,1 @@
+/*load from products-comparison _15.js*/

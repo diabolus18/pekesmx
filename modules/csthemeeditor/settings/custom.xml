@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<setting>
+<bg_mode>box_mode</bg_mode>
+<body_repeat>repeat</body_repeat>
+<body_pattern>dot.png</body_pattern>
+<page_color>#9b9bd4</page_color>
+<text_page_color_text>#00ff0d</text_page_color_text>
+<text_page_fstyle>Lato</text_page_fstyle>
+<text_page_fsize>14</text_page_fsize>
+<text_page_fweight>oblique</text_page_fweight>
+<text_page_fweight2>300</text_page_fweight2>
+<link_page_normal_color_text>#00ffe1</link_page_normal_color_text>
+<link_page_hover_color_text>#ff00ea</link_page_hover_color_text>
+<header_color>#0ab4c4</header_color>
+<header_pattern>9w.png</header_pattern>
+<header_color_bg>#a7a7db</header_color_bg>
+<header_border_color>#2828a8</header_border_color>
+<header_border_style>groove</header_border_style>
+<txt_color_header_color_text>#020212</txt_color_header_color_text>
+<txt_support_fstyle>PT Sans Narrow</txt_support_fstyle>
+<txt_support_fsize>18</txt_support_fsize>
+<txt_support_fweight>normal</txt_support_fweight>
+<txt_support_fweight2>bold</txt_support_fweight2>
+<footer_color>#d6be89</footer_color>
+<footer_pattern>embossed_paper.png</footer_pattern>
+<title_footer_color_text>#05056b</title_footer_color_text>
+<title_footer_fstyle>Droid Serif</title_footer_fstyle>
+<title_footer_fsize>16</title_footer_fsize>
+<title_footer_fweight>normal</title_footer_fweight>
+<title_footer_fweight2>bold</title_footer_fweight2>
+<bg_title_menu_color_bg>#ed5c83</bg_title_menu_color_bg>
+<bg_title_menu_border_color>#ff00a6</bg_title_menu_border_color>
+<bg_title_menu_border_weight>2</bg_title_menu_border_weight>
+<bg_title_menu_border_style>dashed</bg_title_menu_border_style>
+<bg_title_menu_fstyle>Arvo</bg_title_menu_fstyle>
+<bg_title_menu_fsize>24</bg_title_menu_fsize>
+<bg_title_menu_fweight>normal</bg_title_menu_fweight>
+<bg_title_menu_fweight2>700</bg_title_menu_fweight2>
+<bg_title_menu_color_text>#2e2d1f</bg_title_menu_color_text>
+<bg_menu_color>#e8cd48</bg_menu_color>
+<bg_menu_repeat>repeat</bg_menu_repeat>
+<bg_menu_pattern>dust.png</bg_menu_pattern>
+<txt_parent_menu_fstyle>Open Sans</txt_parent_menu_fstyle>
+<txt_parent_menu_color_text>#ff0000</txt_parent_menu_color_text>
+<txt_sub_menu_fstyle>Oswald</txt_sub_menu_fstyle>
+<txt_sub_menu_fsize>12</txt_sub_menu_fsize>
+<txt_sub_menu_fweight>normal</txt_sub_menu_fweight>
+<txt_sub_menu_fweight2>700</txt_sub_menu_fweight2>
+<txt_sub_menu_color_text>#ff3300</txt_sub_menu_color_text>
+<text_main_slideshow_color_text>#109125</text_main_slideshow_color_text>
+<text_main_slideshow_fstyle>Crafty Girls</text_main_slideshow_fstyle>
+<txt_name_product_color_text>#ffa600</txt_name_product_color_text>
+<name_product_fstyle>Rokkitt</name_product_fstyle>
+<name_product_fsize>16</name_product_fsize>
+<name_product_fweight>normal</name_product_fweight>
+<name_product_fweight2>400</name_product_fweight2>
+<price_normal_product_color_text>#020212</price_normal_product_color_text>
+<price_normal_product_fstyle>Quicksand</price_normal_product_fstyle>
+<price_normal_product_fsize>20</price_normal_product_fsize>
+<price_normal_product_fweight>oblique</price_normal_product_fweight>
+<price_normal_product_fweight2>700</price_normal_product_fweight2>
+<price_specials_product_color_text>#7c7c7d</price_specials_product_color_text>
+<price_specials_product_fstyle>Nobile</price_specials_product_fstyle>
+<price_specials_product_fsize>16</price_specials_product_fsize>
+<price_specials_product_fweight>oblique</price_specials_product_fweight>
+<background_sale_color_bg>#449191</background_sale_color_bg>
+<background_sale_color_text>#d000ff</background_sale_color_text>
+<background_sale_fstyle>Oxygen</background_sale_fstyle>
+<background_sale_fsize>25</background_sale_fsize>
+<background_sale_fweight>normal</background_sale_fweight>
+<background_sale_fweight2>800</background_sale_fweight2>
+<button_default_color_bg>#8484e8</button_default_color_bg>
+<button_default_color_text>#ffffff</button_default_color_text>
+<button_default_fstyle>Asap</button_default_fstyle>
+<button_default_fsize>14</button_default_fsize>
+<button_default_fweight>normal</button_default_fweight>
+<button_default_fweight2>700</button_default_fweight2>
+<button_second_color_bg>#748521</button_second_color_bg>
+<button_second_color_text>#d000ff</button_second_color_text>
+<button_second_fstyle>Crete Round</button_second_fstyle>
+<button_second_fsize>14</button_second_fsize>
+<button_second_fweight>normal</button_second_fweight>
+<button_second_fweight2>300</button_second_fweight2>
+<button_slider_color_bg>#080847</button_slider_color_bg>
+<button_slider_color_text>#3a3a9e</button_slider_color_text>
+<button_slider_fstyle>Droid Sans</button_slider_fstyle>
+<button_slider_fsize>13</button_slider_fsize>
+<button_slider_fweight>inherit</button_slider_fweight>
+<button_slider_fweight2>300</button_slider_fweight2>
+<button_home_color_bg>#262647</button_home_color_bg>
+<button_home_color_text>#f2f2fa</button_home_color_text>
+<button_home_fstyle>Lobster</button_home_fstyle>
+<button_home_fsize>16</button_home_fsize>
+<button_home_fweight>normal</button_home_fweight>
+<button_home_fweight2>400</button_home_fweight2>
+<title_box1_color_bg>#575104</title_box1_color_bg>
+<title_box1_border_color>#75570b</title_box1_border_color>
+<title_box1_border_weight>1</title_box1_border_weight>
+<title_box1_border_style>inset</title_box1_border_style>
+<title_box1_color_text>#5858db</title_box1_color_text>
+<title_control_box1_color_bg>#7f8504</title_control_box1_color_bg>
+<title_box2_color_bg>#46ed28</title_box2_color_bg>
+<title_box2_border_color>#13bd2c</title_box2_border_color>
+<title_box2_border_weight>2</title_box2_border_weight>
+<title_box2_border_style>ridge</title_box2_border_style>
+<title_box2_color_text>#ffe600</title_box2_color_text>
+<title_h1_fstyle>Droid Sans</title_h1_fstyle>
+<title_h1_fsize>14</title_h1_fsize>
+<title_h1_fweight>italic</title_h1_fweight>
+<title_h1_fweight2>700</title_h1_fweight2>
+<title_h1_color_text>#5757c2</title_h1_color_text>
+<title_h2_fstyle>Shadows Into Light</title_h2_fstyle>
+<title_h2_fsize>18</title_h2_fsize>
+<title_h2_fweight>inherit</title_h2_fweight>
+<title_h2_fweight2>bold</title_h2_fweight2>
+<title_h2_color_text>#ffb700</title_h2_color_text>
+<title_h1_fstyle>Droid Sans</title_h1_fstyle>
+<title_h1_fsize>14</title_h1_fsize>
+<title_h1_fweight>italic</title_h1_fweight>
+<title_h1_fweight2>700</title_h1_fweight2>
+<title1_fstyle>Reenie Beanie</title1_fstyle>
+<title1_fsize>18</title1_fsize>
+<title1_fweight>italic</title1_fweight>
+<title1_fweight2>700</title1_fweight2>
+<title1_color_text>#34349e</title1_color_text>
+<thead_fstyle>PT Sans Narrow</thead_fstyle>
+<thead_fsize>17</thead_fsize>
+<thead_fweight2>200</thead_fweight2>
+<thead_color_text>#692999</thead_color_text>
+<step_order_color_bg>#7b00ff</step_order_color_bg>
+<dropdown_cart_color>#3838f2</dropdown_cart_color>
+</setting>

@@ -1,0 +1,54 @@
+#history #left_column {}
+#history #center_column{}
+#history #center_column h1{}
+#history #center_column .title_block {}
+#history #center_column .title_block  input {}
+
+.info-order {
+	margin-bottom:20px;
+}
+.info-order p {padding-bottom:10px}
+.info-order p .icon {
+	position:relative;
+	top:2px;
+	left:0
+}
+
+#order-list {}
+#order-list  th {}
+#order-list tr.alternate_item {}
+#order-list  td {}
+#order-list  td.history_detail {}
+
+#order-list .last_item  td {}
+
+.adresses_bloc {margin-bottom:20px}
+.adresses_bloc  .item {margin-right:60px}
+
+.detail_step_by_step {width:100%}
+.detail_step_by_step tr.last_item td {}
+
+#order-detail-content table {width:100%}
+#order-detail-content table .order_qte_input {display:none}
+#order-detail-content table tr.totalprice td {}
+#order-detail-content table tr:nth-child(even) {}
+
+#sendOrderMessage {margin-bottom:20px}
+#sendOrderMessage p {padding-bottom:10px}
+
+#returnOrderMessage .textarea textarea,
+#sendOrderMessage .textarea textarea {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

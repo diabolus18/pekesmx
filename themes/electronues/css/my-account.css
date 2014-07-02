@@ -1,0 +1,21 @@
+#my-account  #left_column {}
+#my-account #center_column {}
+#my-account #center_column h1 {margin-bottom:20px}
+
+#my-account #center_column .title_block  {
+
+}
+
+#my-account .myaccount_lnk_list {list-style-type:none; margin-bottom:15px}
+#my-account .myaccount_lnk_list li {
+	line-height:2em;
+	padding:7px 0
+	
+}
+#my-account .myaccount_lnk_list img{
+	vertical-align:middle;
+	margin-right:20px;
+}
+#my-account .myaccount_lnk_list a:hover img{background-color:#f44d00}
+#my-account .myaccount_lnk_list img{background-color:#141414}
+#my-account p img.icon {vertical-align:-6px}

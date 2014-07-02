@@ -1,0 +1,11 @@
+/* block top search */
+#search_block_top{ width:519px;margin:10px 0 10px 20px;float:left}
+#search_block_top form{
+	float:left;position:relative;height:34px;background:#fff;border-radius:3px;
+	-moz-border-radius:3px;display:block;
+}
+#search_block_top form{overflow:hidden;width:100%;}
+#search_block_top label{float:left; width:15%; color:#fff; text-transform:uppercase; font-weight:bold; line-height:35px}
+#search_block_top p {padding:0;}
+#search_block_top #search_query_top {background:none;border:none;float:left;width:92%;height:34px;line-height:33px;padding:0 6% 0 2%;}
+#search_block_top .button {border:none;background:url(img/i-search.png) no-repeat center center;float:left;height:34px;display:block;text-indent:-9999px;position:absolute;right:0;top:0;width:27px;-moz-border-radius:0px;border-radius:0px;padding:0; cursor:pointer}

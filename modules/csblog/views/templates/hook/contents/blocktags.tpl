@@ -1,0 +1,1 @@
+<div class="title"><h3>{l s='Blog tags' mod='csblog'}</h3></div><div class="box-content center ">	{if $tags|@count > 0}	<p class="block_content">		{foreach from=$tags item=tag}				<a href="{$tag['link']}">{$tag['name']}</a>		{/foreach}	</p>				{else}		{l s='There is no tag' mod='csblog'}	{/if}</div>

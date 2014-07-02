@@ -1,0 +1,231 @@
+.home_top_tab{position:relative;}
+.ui-helper-hidden { display: none; }
+.ui-helper-hidden-accessible { position: absolute !important; clip: rect(1px 1px 1px 1px); clip: rect(1px,1px,1px,1px); }
+.ui-helper-reset { margin: 0; padding: 0; border: 0; outline: 0; line-height: 1.3; text-decoration: none; font-size: 100%; list-style: none; }
+.ui-helper-clearfix:before, .ui-helper-clearfix:after { content: ""; display: table; }
+.ui-helper-clearfix:after { clear: both; }
+.ui-helper-clearfix { zoom: 1; }
+.ui-helper-zfix { width: 100%; height: 100%; top: 0; left: 0; position: absolute; opacity: 0; filter:Alpha(Opacity=0); }
+
+
+/* Interaction Cues
+----------------------------------*/
+.ui-state-disabled { cursor: default !important; }
+
+
+/* Icons
+----------------------------------*/
+
+/* states and images */
+.ui-icon { display: block; text-indent: -99999px; overflow: hidden; background-repeat: no-repeat; }
+
+
+/* Misc visuals
+----------------------------------*/
+
+/* Overlays */
+.ui-widget-overlay { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+.ui-tabs { position: relative; padding:0; zoom: 1; } /* position: relative prevents IE scroll bug (element with position: relative inside container with overflow: auto appear as "fixed") */
+.ui-tabs .ui-tabs-nav,.title_tab {
+padding-bottom:4px;margin-bottom:15px;}
+.ui-tabs .ui-tabs-nav li { list-style: none; float: left; position: relative;margin:0;padding:10px 20px; white-space: nowrap;border:1px solid #e4e4e4;border-bottom:none;border-right:none;transition: all 0.5s ease 0s; }
+.ui-tabs .ui-tabs-nav li.last{border-right:1px solid #e4e4e4;}
+.ui-tabs .ui-tabs-nav li a,.title_tab {padding:0; text-decoration: none;text-transform:uppercase;
+color:#969696;text-align:center;font:700 12px/1.35 "Roboto Condensed",Helvetica,arial;}
+.title_tab, .title_tab_hide_show{
+	padding:5px 15px;min-height:25px;
+	border:1px solid #c8c8c8;
+	background: rgb(255, 255, 255);
+	background: -moz-linear-gradient(90deg, rgb(255, 255, 255) 8%, rgb(236, 236, 236) 92%);
+	background: -webkit-linear-gradient(90deg, rgb(255, 255, 255) 8%, rgb(236, 236, 236) 92%);
+	background: -o-linear-gradient(90deg, rgb(255, 255, 255) 8%, rgb(236, 236, 236) 92%);
+	background: -ms-linear-gradient(90deg, rgb(255, 255, 255) 8%, rgb(236, 236, 236) 92%);
+	background: linear-gradient(180deg, rgb(255, 255, 255) 8%, rgb(236, 236, 236) 92%);
+	font-family:'Roboto', Arial, sans-serif;
+	font-size:24px; 
+	font-weight:700;
+	color:#0a0a0a;
+	padding:3px 20px 7px;
+	margin:20px 0 50px;
+	text-transform:none;
+}
+.description{padding-bottom:10px}
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected,
+.ui-tabs .ui-tabs-nav li:hover{background:#397abc;border:1px solid #397abc;border-bottom:none!important;border-right:none!important;}
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a,.ui-tabs .ui-tabs-nav li:hover a{color:#fff}
+#page .ui-tabs .ui-tabs-nav li a:hover{color:#fff}
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a, .ui-tabs .ui-tabs-nav li.ui-state-disabled a, .ui-tabs .ui-tabs-nav li.ui-state-processing a { cursor: text; }
+.ui-tabs .ui-tabs-nav li a, .ui-tabs.ui-tabs-collapsible .ui-tabs-nav li.ui-tabs-selected a { cursor: pointer; } /* first selector in group seems obsolete, but required to overcome bug in Opera applying cursor: text overall if defined elsewhere... */
+.ui-tabs .ui-tabs-panel { display: block; border-width: 0; padding:0; background: none; }
+.ui-tabs .ui-tabs-hide { display: none; }
+
+
+/* Component containers
+----------------------------------*/
+.ui-widget { font-family: Verdana,Arial,sans-serif/*{ffDefault}*/; font-size: 1.1em/*{fsDefault}*/; }
+.ui-widget .ui-widget { font-size: 1em; }
+.ui-widget input, .ui-widget select, .ui-widget textarea, .ui-widget button { font-family:Arial,sans-serif/*{ffDefault}*/; font-size: 1em; }
+.ui-widget-content {margin-bottom:0!important; border:none; background-color:transparent }
+.ui-widget-content a { color: #222222/*{fcContent}*/; }
+.ui-widget-header {}
+.ui-widget-header a { color: #222222/*{fcHeader}*/; }
+
+
+.home_top_tab .control{
+	position:absolute;
+	top:-65px;
+	right:0;
+	background:#fa5902;
+	width:33px;
+	height:42px;
+	border-radius:0 3px 0 0;
+	-moz-border-radius:0 3px 0 0;
+	-webkit-border-radius:0 3px 0 0;
+	-o-border-radius:0 3px 0 0;
+	padding:0 20px;
+}
+.home_top_tab .prev,.home_top_tab  .next{
+	text-indent:-9999px;
+	width:9px;
+	height:14px;
+	float:left;
+	-webkit-transition-duration: 0s, 0s;
+	background-image: url(../images/icon_slider1.png);
+	background-repeat:no-repeat;
+	width:11px; 
+	height:20px;
+	margin:12px 0
+}
+.home_top_tab .prev {
+	background-position: -47px 0;
+}
+.home_top_tab .next {
+	background-position: -22px 0;
+	margin-left:10px;
+}
+.home_top_tab .prev:hover{
+	background-position: 100% 0;
+	transition: all 0.2s linear;
+	-webkit-transition: all 0.2s linear;
+	-webkit-transition: all 0.2s linear;
+	-webkit-transition: all 0.2s linear;
+}
+.home_top_tab .next:hover{
+	background-position: 0 0;
+	transition: all 0.2s linear;
+	-webkit-transition: all 0.2s linear;
+	-webkit-transition: all 0.2s linear;
+	-webkit-transition: all 0.2s linear;
+}
+/*product list*/
+.product-list li .discount {
+	font-weight: bold;
+	font-size: 10px;
+	color: #fff;
+	text-transform: uppercase;
+	background: none repeat scroll 0 0 #9B0000;
+	padding: 1px 5px;	
+}
+.product-list li .price {
+}
+.product-list li h3 {
+	color:#000;margin-bottom:5px;line-height:15px;padding:0;
+}
+.product-list li h3 a {
+	color: #0a0a0a;
+	text-decoration: none;font-weight:400;	
+	transition: all 0.2s liner;
+	-moz-transition: all 0.2s liner;
+	-webkit-transition: all 0.2s liner;
+	-o-transition: all 0.2s liner;
+	font-size:14px;
+}
+.product-list li h3 a:hover {
+	color: #e31836;
+}
+.product-list li .category_name{color: #646464;font-size:11px;padding:3px 0 7px}
+.tabs-carousel{position:relative;}
+/* reponsive */
+@media only screen and (max-width: 767px) 
+{	
+	.tabs-carousel{margin-bottom:12px;}
+	.tabs-carousel{margin-bottom:20px;}
+	.title_tab_hide_show span{display:block; line-height:normal}
+	.title_tab_hide_show.selected{}
+	.home_top_tab .prev,.home_top_tab  .next{}
+	.home_top_tab .next{right:10px;}
+	.home_top_tab .prev{right:30px;}
+}
+
+/*jquery.carouFredSel-6.1.0-packed*/
+.list_carousel {
+	height:auto;
+	#height:408px;
+}
+.list_carousel ul {
+	height:408px;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: block;
+}
+.list_carousel ul li {
+	height:408px;
+	width:276px;
+	height: auto;
+	padding: 0;
+	margin:10px;vertical-align:top;float:left
+}
+.list_carousel li.first_item a.product_image{text-align:left}
+.list_carousel li a.product_image{text-align:left}
+.list_carousel li a.product_image img{margin-bottom:10px;}
+.list_carousel.responsive {
+	width: auto;
+	padding:0;
+	margin:20px
+}
+.cclearfix {
+	float: none;
+	clear: both;
+}
+
+
+.pager {
+	float: left;
+	width: 300px;
+	text-align: center;
+}
+.pager a {
+	margin: 0 5px;
+	text-decoration: none;
+}
+.pager a.selected {
+	text-decoration: underline;
+}
+.timer {
+	background-color: #999;
+	height: 6px;
+	width: 0px;
+}
+.ui-tabs .ui-tabs-hide {
+    display: block;
+    visibility: hidden;
+    height: 0;
+}
+
+/*jquery.carouFredSel-6.1.0-packed*/
+/*ratting*/
+
+div.star_on {
+	/* background: url(../images/star.gif) no-repeat 0 0 transparent;background-position: 0 -9px */
+}
+.star_content{margin-bottom:12px;}
+.view_more_link{text-align:right;padding-bottom:15px}
+.view_more_link a{color:#397abd;font-size:11px;font-weight:700}
+.view_more_link a:hover{text-decoration:underline}
+
+/*sub_category */
+.sub_category{border-top:1px solid #d6d6d6; padding:15px 30px 14px}
+.sub_category h6{display:inline; margin-right:10px;}
+.sub_category a{color:#323232}

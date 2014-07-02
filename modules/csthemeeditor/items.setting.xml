@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items_setting>
+<general>	
+	<item>
+		<text>Body</text>
+		<style_css>background</style_css>
+		<name>body</name>
+		<frontend>false</frontend>
+		<class>body</class>
+	</item>
+	<item>
+		<text>Page</text>
+		<style_css>background</style_css>
+		<name>page</name>
+		<frontend>true</frontend>
+		<class>#page</class>
+	</item>
+	<item>
+		<text>Text page</text>
+		<style_css>color_text,font</style_css>
+		<name>text_page</name>
+		<frontend>true</frontend>
+		<class>body, input, select, textarea, .product_desc, .compare label, .category-product-count, ul.pagination .current span, #block_contact_infos li  pre, .breadcrumb a, .price.unit, #buy_block p#pQuantityAvailable, #cart_block #cart-prices span.ajax_cart_shipping_cost</class>
+	</item>
+	<item>
+		<text>Text page in at text darker. Example: title of text input, select...</text>
+		<style_css>color_text,font</style_css>
+		<name>text_page2</name>
+		<frontend>false</frontend>
+		<class>#pb-left-column #buy_block label, #availability_statut span#availability_label, .fieldset .required label, .fieldset .password label, .fieldset .text label, .fieldset .radio.required span, .fieldset .select span, .fieldset .select label, .fieldset .textarea label, #ordermsg p.txt, #compare_shipping label, .discount, #cart_summary tfoot td:first-child, .addresses ul.address li.address_firstname.lastname, .order_carrier_content h3, .color1, .color1 sup, .address_update a, .address_delete a, h3.title1, .addresses ul.address .address_title, .ttitle,.title1, #categories_block_left li a.selected,.sortPagiBar .nbrItemPage label, #productsSortForm label, .view_list_gird span, #new_comment_form, .pluser_name span,.sub_category a, .block_popular_word_search a, .pluser_name, .tag_list span:first-child, #cart_block #cart-prices span:first-child, .blockblogcategory .selected a, #plpagination label</class>
+	</item>
+	<item>
+		<text>Link page normal</text>
+		<style_css>color_text</style_css>
+		<name>link_page_normal</name>
+		<frontend>true</frontend>
+		<class>a, a:active, a:visited, .box1 .title a:hover, #usefull_link_block li, #more_info_tabs .idTabs a, .title_hide_show</class>
+	</item>
+	<item>
+	<text>Link page hover</text>
+		<style_css>color_text</style_css>
+		<name>link_page_hover</name>
+		<frontend>false</frontend>
+		<class>a:hover, #header a:hover, #languages_block_top .selected_language, #currencies_block_top .selected a, #menu .cs_mega_menu_cat .cs_ul_mega_menu > ul > li div a:hover, #menu .cs_mega_menu_cat .cs_ul_mega_menu > ul li.menu_item > div a:hover, #menu .cs_mega_menu_cat .cs_ul_mega_menu ul li .product_item a:hover,.name_product a:hover, .sub_category h6, #menu .cs_ul_mega_menu li.menu_item a.title_menu_parent:hover, #more_info_tabs .idTabs .selected, #more_info_tabs .idTabs a:hover, .title_hide_show.selected,.box2 .title a:hover, a.view_more, .sub_category h6, .sub_category a:hover, .block_popular_word_search a:hover, .block_popular_word_search h6, .breadcrumb a:hover, .breadcrumb, #categories_block_left  li a:hover, .address_update a:hover,address_delete a:hover</class>
+	</item>
+</general>
+<header>
+	<item>
+		<text>Background Header</text>
+		<style_css>background</style_css>
+		<name>header</name>
+		<frontend>true</frontend>
+		<class>.mode_header</class>
+	</item>
+	<item>
+		<text>Background Header bottom</text>
+		<style_css>color_bg,border_color</style_css>
+		<name>header</name>
+		<frontend>true</frontend>
+		<class>.header_content_menu</class>
+	</item>
+	<item>
+		<text>Text color header</text>
+		<style_css>color_text</style_css>
+		<name>txt_color_header</name>
+		<frontend>false</frontend>
+		<class>#header, #header a</class>
+	</item>
+	<item>
+		<text>Text support</text>
+		<style_css>font</style_css>
+		<name>txt_support</name>
+		<frontend>false</frontend>
+		<class>.text_top</class>
+	</item>
+</header>
+<footer>
+	<item>
+		<text>Footer</text>
+		<style_css>background</style_css>
+		<name>footer</name>
+		<frontend>true</frontend>
+		<class>.mode_footer</class>
+	</item>
+	<item>
+		<text>Text title block footer</text>
+		<style_css>color_text,font</style_css>
+		<name>title_footer</name>
+		<frontend>true</frontend>
+		<class>#footer .title_block, #footer .title_block a, .show_hide_footer</class>
+	</item>
+</footer>
+<menu>
+	<item>
+		<text>Background title menu</text>
+		<style_css>color_bg,border_color,font,color_text</style_css>
+		<name>bg_title_menu</name>
+		<frontend>false</frontend>
+		<class>div.shop_by, #my-account .myaccount_lnk_list a:hover img</class>
+	</item>
+	<item>
+		<text>Background menu</text>
+		<style_css>background</style_css>
+		<name>bg_menu</name>
+		<frontend>false</frontend>
+		<class>.cs_ul_mega_menu, #menu .cs_mega_menu_cat .cs_ul_mega_menu > ul li > div.options_list, #menu .cs_mega_menu_cat .cs_ul_mega_menu > ul li > div.sub_menu, #cs_megamenu_more .more-menu, #megamenu-responsive-root > li.root.open</class>
+	</item>
+	<item>
+		<text>Text parent menu</text>
+		<style_css>font,color_text</style_css>
+		<name>txt_parent_menu</name>
+		<frontend>false</frontend>
+		<class>#menu .cs_ul_mega_menu li.menu_item a.title_menu_parent, #menu .cs_mega_menu_cat .cs_ul_mega_menu ul li div.out_cat_parent a, #menu .cs_mega_menu_cat .cs_ul_mega_menu ul li .div_static h5</class>
+	</item>
+	<item>
+		<text>Text sub menu</text>
+		<style_css>font,color_text</style_css>
+		<name>txt_sub_menu</name>
+		<frontend>flase</frontend>
+		<class>#menu .cs_mega_menu_cat .cs_ul_mega_menu > ul li.menu_item > div a.cat_child, .div_static p, #menu .cs_mega_menu_cat .cs_ul_mega_menu ul li.menu_item.parent .sub_menu a</class>
+	</item>
+	<item>
+		<text>Text link menu hover</text>
+		<style_css>color_text</style_css>
+		<name>txt_link_hover_menu</name>
+		<frontend>flase</frontend>
+		<class>#menu .cs_mega_menu_cat .cs_ul_mega_menu > ul > li div a:hover, #menu .cs_mega_menu_cat .cs_ul_mega_menu > ul li.menu_item > div a:hover, #menu .cs_mega_menu_cat .cs_ul_mega_menu ul li .product_item a:hover, #menu .cs_ul_mega_menu li.menu_item a.title_menu_parent:hover</class>
+	</item>
+</menu>
+<slideshow>
+	<item>
+		<text>Text title slideshow</text>
+		<style_css>color_text,font</style_css>
+		<name>text_main_slideshow</name>
+		<frontend>false</frontend>
+		<class>.caption_title</class>
+	</item>
+</slideshow>
+<product>
+	<item>
+		<text>Text color name product</text>
+		<style_css>color_text</style_css>
+		<name>txt_name_product</name>
+		<frontend>true</frontend>
+		<class>.name_product a, #pb-left-column h1, #pb-left-column h1 a, #new_comment_form .product .product_desc .product_name, .title_post a, .pltitle, .post_name h3 a, #plpost h2</class>
+	</item>	
+	<item>
+		<text>Font style name product in product list and title blog post</text>
+		<style_css>font</style_css>
+		<name>name_product</name>
+		<frontend>true</frontend>
+		<class>.name_product a, .title_post a, .pltitle, .post_name h3 a</class>
+	</item>	
+	<item>
+		<text>Price normal product</text>
+		<style_css>color_text,font</style_css>
+		<name>price_normal_product</name>
+		<frontend>false</frontend>
+		<class>.price, .price-discount</class>
+	</item>
+	<item>
+		<text>Price old product</text>
+		<style_css>color_text,font</style_css>
+		<name>price_specials_product</name>
+		<frontend>false</frontend>
+		<class>.price.old, .old_price, #old_price, #total_product, #total_shipping, .price-old</class>
+	</item>
+	<item>
+		<text>Background sale</text>
+		<style_css>color_bg,color_text,font</style_css>
+		<name>background_sale</name>
+		<frontend>flase</frontend>
+		<class>.on_sale span, .new span, .post_date_add.md .mdd</class>
+	</item>
+</product>
+<button>
+	<item>
+		<text>Button default(Add to cart ,...)</text>
+		<style_css>color_bg,color_text,font</style_css>
+		<name>button_default</name>
+		<frontend>false</frontend>
+		<class>.csbutton.csdefault, #update_carriers_list, #sendEmail</class>
+	</item>
+	<item>
+		<text>Button second</text>
+		<style_css>color_bg,color_text,font</style_css>
+		<name>button_second</name>
+		<frontend>false</frontend>
+		<class>.csbutton.cssecond, #carriercompare_submit, a#cs_quickview_handler span, .btn-default</class>
+	</item>
+	<item>
+		<text>Button in main slideshow</text>
+		<style_css>color_bg,color_text,font</style_css>
+		<name>button_slider</name>
+		<frontend>false</frontend>
+		<class>.caption_button</class>
+	</item>
+	<item>
+		<text>Background button home electronues, ...</text>
+		<style_css>color_bg</style_css>
+		<name>button_home</name>
+		<frontend>false</frontend>
+		<class>.link_home, #newsletter_block_left input.button_mini, #toTop, .icon.arrow</class>
+	</item>
+	<item>
+		<text>Text button home electronues, ...</text>
+		<style_css>color_text,font</style_css>
+		<name>button_home</name>
+		<frontend>false</frontend>
+		<class>.link_home a, #newsletter_block_left input.button_mini, #shopping_cart a</class>
+	</item>
+</button>
+<title>
+	<item>
+		<text>Background title box 0 and box 1</text>
+		<style_css>color_bg,border_color</style_css>
+		<name>bg_title_box1</name>
+		<frontend>false</frontend>
+		<class>.box1 .title, .box0 .title, #compare_shipping h3</class>
+	</item>
+	<item>
+		<text>Color text title box 0 and box 1</text>
+		<style_css>color_text</style_css>
+		<name>ct_title_box1</name>
+		<frontend>false</frontend>
+		<class>.box1 .title h3, .box1 .title a, .box0 .title h3, #compare_shipping h3</class>
+	</item>
+	<item>
+		<text>Background control next,prev box 1</text>
+		<style_css>color_bg</style_css>
+		<name>title_control_box1</name>
+		<frontend>false</frontend>
+		<class>.home_top_tab .control</class>
+	</item>
+	<item>
+		<text>Background title box 2</text>
+		<style_css>color_bg,border_color</style_css>
+		<name>bg_title_box2</name>
+		<frontend>false</frontend>
+		<class>.box2 .title</class>
+	</item>
+	<item>
+		<text>Color text title box 2</text>
+		<style_css>color_text</style_css>
+		<name>ct_title_box2</name>
+		<frontend>false</frontend>
+		<class>.box2 .title a</class>
+	</item>
+	<item>
+		<text>Text title h1 (title page)</text>
+		<style_css>font,color_text</style_css>
+		<name>title_h1</name>
+		<frontend>false</frontend>
+		<class>h1, h1 a, #new_comment_form .product .product_desc .product_name</class>
+	</item>
+	<item>
+		<text>Text title h2</text>
+		<style_css>font,color_text</style_css>
+		<name>title_h2</name>
+		<frontend>false</frontend>
+		<class>h2</class>
+	</item>
+	<item>
+		<text>Text title h3 (title box)</text>
+		<style_css>font</style_css>
+		<name>title_h1</name>
+		<frontend>false</frontend>
+		<class>h3, #more_info_tabs .idTabs a, .title_hide_show, .box0 .title h3</class>
+	</item>	
+</title>
+<others>
+	<item>
+		<text>Text table head</text>
+		<style_css>font,color_text</style_css>
+		<name>thead</name>
+		<frontend>false</frontend>
+		<class>table.std th, table.table_block th</class>
+	</item>
+	<item>
+		<text>Background color steps order checkout and grid_list</text>
+		<style_css>color_bg,font</style_css>
+		<name>step_order</name>
+		<frontend>false</frontend>
+		<class>.view_list_gird .grid.active,.view_list_gird .list.active,.view_list_gird a b:hover,ul.step li.step_current,ul.step li.step_done:hover,ul.step li.step_current_end, ul.step li</class>
+	</item>
+	<item>
+		<text>Background border Dropdown cart</text>
+		<style_css>background</style_css>
+		<pattern>false</pattern>
+		<name>dropdown_cart</name>
+		<frontend>false</frontend>
+		<class>#cart_block</class>
+	</item>
+	<item>
+		<text>Background color arrow view more category in home left</text>
+		<style_css>color_bg</style_css>
+		<name>view_more</name>
+		<frontend>false</frontend>
+		<class>.view_more .arrow</class>
+	</item>
+	<item>
+		<text>Text color sub category in slider home</text>
+		<style_css>color_text</style_css>
+		<name>sub_category</name>
+		<frontend>false</frontend>
+		<class>.sub_category a, .block_popular_word_search a</class>
+	</item>
+	<item>
+		<text>Text in banner home</text>
+		<style_css>color_text,font</style_css>
+		<name>txt_banner</name>
+		<frontend>false</frontend>
+		<class>.banner_text</class>
+	</item>
+	<item>
+		<text>Text color availability in product, date in block</text>
+		<style_css>color_text</style_css>
+		<name>txt_ava</name>
+		<frontend>false</frontend>
+		<class>#availability_statut #availability_value, .pldate_add, .comment_date, .availability, .blog_left .post_date_add</class>
+	</item>
+	
+</others>
+</items_setting>

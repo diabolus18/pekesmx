@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>csblog</name>
+	<displayName><![CDATA[CS Blog]]></displayName>
+	<version><![CDATA[1.0]]></version>
+	<description><![CDATA[CS Blog Module]]></description>
+	<author><![CDATA[Codespot]]></author>
+	<tab><![CDATA[Other]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
