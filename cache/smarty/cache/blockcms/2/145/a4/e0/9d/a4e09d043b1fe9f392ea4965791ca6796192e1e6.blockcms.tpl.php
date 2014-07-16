@@ -11,20 +11,23 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '19641719253a1da35cb21a9-50176309',
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53ad20182f53c4_98711895',
+  'unifunc' => 'content_53c5ee3641caa8_49315901',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53ad20182f53c4_98711895')) {function content_53ad20182f53c4_98711895($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53c5ee3641caa8_49315901')) {function content_53c5ee3641caa8_49315901($_smarty_tpl) {?>
 	<!-- MODULE Block footer -->
 	<div class="grid_4 block_customer_service_links alpha" data-animate="fadeInLeft" data-delay="0">
 	<h4 class="title_block">Servicio al cliente</h4>
 	<a href="javascript:void(0)" class="show_hide_footer">+</a>
 	<div class="block_content">
 		<ul>
-												<li class="item"><a href="http://pekes.mx/content/3-condiciones-de-uso" title="Condiciones de uso">Condiciones de uso</a></li>
-																<li class="item"><a href="http://pekes.mx/content/4-sobre" title="Sobre">Sobre</a></li>
+												<li class="item"><a href="http://pekes.mx/content/1-entrega" title="Entrega">Entrega</a></li>
+																<li class="item"><a href="http://pekes.mx/content/2-aviso-legal" title="Aviso legal">Aviso legal</a></li>
+																<li class="item"><a href="http://pekes.mx/content/3-condiciones-de-uso" title="Condiciones de uso">Condiciones de uso</a></li>
+																<li class="item"><a href="http://pekes.mx/content/4-empresa" title="Acerca de nosotros">Acerca de nosotros</a></li>
 																<li class="item"><a href="http://pekes.mx/content/5-pago-seguro" title="Pago seguro">Pago seguro</a></li>
+																<li class="item"><a href="http://pekes.mx/content/6-servicio-al-cliente" title="Servicio al cliente">Servicio al cliente</a></li>
 									</ul>
 	</div>
 	</div>

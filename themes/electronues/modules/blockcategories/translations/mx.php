@@ -9,12 +9,12 @@ $_MODULE['<{blockcategories}electronues>blockcategories_23e0d4ecc25de9b2777fdaca
 $_MODULE['<{blockcategories}electronues>blockcategories_0cf328636f0d607ac24a5c435866b94b'] = 'HTML dinámico: opción no válida';
 $_MODULE['<{blockcategories}electronues>blockcategories_f4f70727dc34561dfde1a3c529b6205c'] = 'Ajustes';
 $_MODULE['<{blockcategories}electronues>blockcategories_1379a6b19242372c1f23cc9adedfcdd6'] = 'Categoría raíz';
-$_MODULE['<{blockcategories}electronues>blockcategories_8cf04a9734132302f96da8e113e80ce5'] = 'Inicio';
-$_MODULE['<{blockcategories}electronues>blockcategories_222a267cc5778206b253be35ee3ddab5'] = 'Actual';
+$_MODULE['<{blockcategories}electronues>blockcategories_89b278a71f2be5f620307502326587a0'] = 'Categoría inicio';
+$_MODULE['<{blockcategories}electronues>blockcategories_62381fc27e62649a16182a616de3f7ea'] = 'Categoría actual';
 $_MODULE['<{blockcategories}electronues>blockcategories_19561e33450d1d3dfe6af08df5710dd0'] = 'Nivel máximo';
-$_MODULE['<{blockcategories}electronues>blockcategories_4a99c9eebe78078e29e6193e05eac626'] = 'Seleccione el nivel máximo de subniveles a mostrar en este bloque (0=infinito).';
+$_MODULE['<{blockcategories}electronues>blockcategories_584d4e251b6f778eda9cfc2fc756b0b0'] = 'Establezca el nivel máximo de los subniveles mostrados en este bloque (0 = Infinito).';
 $_MODULE['<{blockcategories}electronues>blockcategories_971fd8cc345d8bd9f92e9f7d88fdf20c'] = 'Dinámico';
-$_MODULE['<{blockcategories}electronues>blockcategories_e16f248b047fb7d0c97dcc19b17296a3'] = 'Modo dinámico activado (animado) para los subniveles';
+$_MODULE['<{blockcategories}electronues>blockcategories_c10efcaa2a8ff4eedaa3538fff78eb53'] = 'Activa el modo dinámico (animado) para los subniveles de la categoría.';
 $_MODULE['<{blockcategories}electronues>blockcategories_00d23a76e43b46dae9ec7aa9dcbebb32'] = 'Activado';
 $_MODULE['<{blockcategories}electronues>blockcategories_b9f5c797ebbf55adccdd8539a65a0241'] = 'Desactivado';
 $_MODULE['<{blockcategories}electronues>blockcategories_6b46ae48421828d9973deec5fa9aa0c3'] = 'Orden';

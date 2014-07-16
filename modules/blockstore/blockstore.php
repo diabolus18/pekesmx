@@ -33,7 +33,7 @@ class BlockStore extends Module
 	{
 		$this->name = 'blockstore';
 		$this->tab = 'front_office_features';
-		$this->version = '1.2';
+		$this->version = '1.2.1';
 		$this->author = 'PrestaShop';
 		$this->need_instance = 0;
 
@@ -56,7 +56,7 @@ class BlockStore extends Module
 			&& (!$theme->default_left_column || !$this->registerHook('leftColumn')))
 		{
 			// If there are no colums implemented by the template, throw an error and uninstall the module
-			$this->_errors[] = $this->l('This module need to be hooked in a column and your theme does not implement one.');
+			$this->_errors[] = $this->l('This module needs to be hooked in a column, but your theme does not implement one.');
 			parent::uninstall();
 			return false;
 		}
@@ -159,13 +159,13 @@ class BlockStore extends Module
 				'input' => array(
 					array(
 						'type' => 'file',
-						'label' => $this->l('Block image'),
+						'label' => $this->l('Image for the Store Locator block'),
 						'name' => 'BLOCKSTORE_IMG',
 						'thumb' => '../modules/'.$this->name.'/'.Configuration::get('BLOCKSTORE_IMG'),
 					),
 					array(
 						'type' => 'text',
-						'label' => $this->l('Block text'),
+						'label' => $this->l('Text for the Store Locator block'),
 						'name' => 'BLOCKSTORE_TEXT',
 						'lang' => true,
 					),

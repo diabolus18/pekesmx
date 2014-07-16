@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '62518239353a1da3495aa98-47726486',
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53ad2017a0e758_16603680',
+  'unifunc' => 'content_53c5be4ae1dd53_35520697',
   'has_nocache_code' => 0,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53ad2017a0e758_16603680')) {function content_53ad2017a0e758_16603680($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53c5be4ae1dd53_35520697')) {function content_53c5be4ae1dd53_35520697($_smarty_tpl) {?>
 <!-- Block mega menu module -->
 <div class="cs_mega_menu" id="menu">
 <div class="cs_mega_menu_cat">
@@ -26,12 +26,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 						Alimentación y Lactancia</a>
 					</li>
 			<li class=" menu_item level-1">
-						<a class="title_menu_parent" href="?id_category=4&controller=category" title="">
-						Sabanitas y cobertores</a>
+						<a class="title_menu_parent" href="?id_category=5&controller=category" title="">
+						Cuidado e Higiene</a>
 					</li>
 			<li class=" menu_item level-1">
-						<a class="title_menu_parent" href="?id_category=5&controller=category" title="">
-						Cuidados y baño</a>
+						<a class="title_menu_parent" href="?id_category=4&controller=category" title="">
+						Sabanitas y cobertores</a>
 					</li>
 			<li class=" menu_item level-1">
 						<a class="title_menu_parent" href="?id_category=9&controller=category" title="">
@@ -43,7 +43,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 					</li>
 			<li class=" menu_item menu_last level-1">
 						<a class="title_menu_parent" href="?id_category=7&controller=category" title="">
-						De viaje</a>
+						De Viaje</a>
 					</li>
 		</ul>
 	</div>

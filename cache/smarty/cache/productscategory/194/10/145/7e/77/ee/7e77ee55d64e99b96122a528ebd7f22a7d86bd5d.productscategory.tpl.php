@@ -11,16 +11,16 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '138665067553a1da3ecba0a9-71641901',
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53b38d58d67f88_14590400',
+  'unifunc' => 'content_53c5edaf4b3929_43844550',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53b38d58d67f88_14590400')) {function content_53b38d58d67f88_14590400($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53c5edaf4b3929_43844550')) {function content_53c5edaf4b3929_43844550($_smarty_tpl) {?>
 <div class="clearfix box0 blockproductscategory">
-	<div class="title"><h3 class="productscategory_h2">17 otros productos de la misma categoría:</h3></div>
+	<div class="title"><h3 class="productscategory_h2">18 otros productos de la misma categoría:</h3></div>
 	<div id="productscategory">
 		<div id="productscategory_list" class="list_carousel responsive">
-			<ul id="carousel-productscategory" style="width: 1819px">
+			<ul id="carousel-productscategory" style="width: 1926px">
 								<li  data-animate="bounceIn" data-delay="0">
 				<div class="center_block">
 				<div class="image">
@@ -80,7 +80,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 						</h3>
 					</div>
 										<span class="availability">Available</span>										
-					<p class="product_desc"></p>
+					<p class="product_desc">Babero confeccionado en toalla&nbsp;con una capa de nylon para evitar la...</p>
 																												<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_196" href="http://pekes.mx/carro-de-la-compra?add=&id_product=196&token=3c5da22d25d0ae51a103c8d668c01beb" title="Add to cart">Add to cart</a>
 												
 													</div>
@@ -96,7 +96,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 						</h3>
 					</div>
 										<span class="availability">Available</span>										
-					<p class="product_desc"></p>
+					<p class="product_desc">Babero confeccionado en toalla&nbsp;con una capa de nylon para evitar la...</p>
 																												<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_195" href="http://pekes.mx/carro-de-la-compra?add=&id_product=195&token=3c5da22d25d0ae51a103c8d668c01beb" title="Add to cart">Add to cart</a>
 												
 													</div>
@@ -112,7 +112,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 						</h3>
 					</div>
 										<span class="availability">Available</span>										
-					<p class="product_desc"></p>
+					<p class="product_desc">Babero confeccionado en toalla&nbsp;con una capa de nylon para evitar la...</p>
 																												<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_193" href="http://pekes.mx/carro-de-la-compra?add=&id_product=193&token=3c5da22d25d0ae51a103c8d668c01beb" title="Add to cart">Add to cart</a>
 												
 													</div>
@@ -128,7 +128,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 						</h3>
 					</div>
 										<span class="availability">Available</span>										
-					<p class="product_desc"></p>
+					<p class="product_desc">Babero confeccionado en toalla que lleva una capa de nylon para evitar la...</p>
 																												<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_192" href="http://pekes.mx/carro-de-la-compra?add=&id_product=192&token=3c5da22d25d0ae51a103c8d668c01beb" title="Add to cart">Add to cart</a>
 												
 													</div>
@@ -144,7 +144,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 						</h3>
 					</div>
 										<span class="availability">Available</span>										
-					<p class="product_desc"></p>
+					<p class="product_desc">Babero confeccionado en toalla&nbsp;con una capa de nylon para evitar la...</p>
 																												<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_191" href="http://pekes.mx/carro-de-la-compra?add=&id_product=191&token=3c5da22d25d0ae51a103c8d668c01beb" title="Add to cart">Add to cart</a>
 												
 													</div>
@@ -160,7 +160,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 						</h3>
 					</div>
 										<span class="availability">Available</span>										
-					<p class="product_desc"></p>
+					<p class="product_desc">Es un babero confeccionado en toalla que lleva una capa de nylon para evitar la...</p>
 																												<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_190" href="http://pekes.mx/carro-de-la-compra?add=&id_product=190&token=3c5da22d25d0ae51a103c8d668c01beb" title="Add to cart">Add to cart</a>
 												
 													</div>
@@ -176,7 +176,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 						</h3>
 					</div>
 										<span class="availability">Available</span>										
-					<p class="product_desc"></p>
+					<p class="product_desc">Batita dise&ntilde;ada para evitar que el beb&eacute; o ni&ntilde;o (a) se ensucie y...</p>
 																												<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_221" href="http://pekes.mx/carro-de-la-compra?add=&id_product=221&token=3c5da22d25d0ae51a103c8d668c01beb" title="Add to cart">Add to cart</a>
 												
 													</div>
@@ -192,22 +192,22 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 						</h3>
 					</div>
 										<span class="cs_out_of_stock">Out of stock</span>										
-					<p class="product_desc"></p>
+					<p class="product_desc">Batita dise&ntilde;ada para evitar que el beb&eacute; o ni&ntilde;o (a) se ensucie y...</p>
 																					<span class="csbutton cssecond">Out of stock</span>
 													</div>
 				</li>
 								<li  data-animate="bounceIn" data-delay="0">
 				<div class="center_block">
 				<div class="image">
-					<a href="http://pekes.mx/baberos/219-bata-escolar-7503000388206.html" class="product_img_link" title=""><img src="http://pekes.mx/520-home_default/bata-escolar.jpg" alt="Bata escolar" /></a>
+					<a href="http://pekes.mx/baberos/219-bata-escolar-7503000388206.html" class="product_img_link" title=""><img src="http://pekes.mx/520-home_default/bata-escolar.jpg" alt="Bata escolar multicolor" /></a>
 				</div>
 					<div class="name_product">
 						<h3>
-							<a href="http://pekes.mx/baberos/219-bata-escolar-7503000388206.html" title="Bata escolar">Bata escolar</a>
+							<a href="http://pekes.mx/baberos/219-bata-escolar-7503000388206.html" title="Bata escolar multicolor">Bata escolar multicolor</a>
 						</h3>
 					</div>
 										<span class="availability">Available</span>										
-					<p class="product_desc"></p>
+					<p class="product_desc">Esta bata escolar es ideal para proteger la ropita y piel de tu peque&ntilde;o mientras...</p>
 																												<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_219" href="http://pekes.mx/carro-de-la-compra?add=&id_product=219&token=3c5da22d25d0ae51a103c8d668c01beb" title="Add to cart">Add to cart</a>
 												
 													</div>
@@ -271,7 +271,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 						</h3>
 					</div>
 										<span class="availability">Available</span>										
-					<p class="product_desc"></p>
+					<p class="product_desc">Set de tres Baberos de toalla ahulada con hermoso dise&ntilde;o de Le&oacute;n impreso,...</p>
 																												<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_207" href="http://pekes.mx/carro-de-la-compra?add=&id_product=207&token=3c5da22d25d0ae51a103c8d668c01beb" title="Add to cart">Add to cart</a>
 												
 													</div>
@@ -287,8 +287,24 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 						</h3>
 					</div>
 										
-					<p class="product_desc"></p>
+					<p class="product_desc">Set de tres Baberos de toalla ahulada con hermoso dise&ntilde;o impreso, ajustable con...</p>
 														</div>
+				</li>
+								<li  data-animate="bounceIn" data-delay="0">
+				<div class="center_block">
+				<div class="image">
+					<a href="http://pekes.mx/baberos/266-babero-de-silicon-rosa.html" class="product_img_link" title=""><img src="http://pekes.mx/572-home_default/babero-de-silicon-rosa.jpg" alt="Babero de silicón Rosa" /></a>
+				</div>
+					<div class="name_product">
+						<h3>
+							<a href="http://pekes.mx/baberos/266-babero-de-silicon-rosa.html" title="Babero de silicón Rosa">Babero de silic&oacute;n Rosa</a>
+						</h3>
+					</div>
+										<span class="availability">Available</span>										
+					<p class="product_desc">Suave, antibacterial, lavable, s&uacute;per flexible, novedoso y amigable con el...</p>
+																												<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_266" href="http://pekes.mx/carro-de-la-compra?add=&id_product=266&token=3c5da22d25d0ae51a103c8d668c01beb" title="Add to cart">Add to cart</a>
+												
+													</div>
 				</li>
 							</ul>
 			<div class="cclearfix"></div>

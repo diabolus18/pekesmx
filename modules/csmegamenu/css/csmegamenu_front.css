@@ -1,4 +1,4 @@
-#menu {z-index:100;float:left;width:280px;}
+#menu {z-index:100;float:left;}
 .cs_mega_menu_cat{position:relative;}
 #left_column_home .cs_mega_menu_cat{padding:0}
 
@@ -188,7 +188,7 @@ a.product_image img{max-width :100%;}
 #menu .cs_mega_menu_cat .cs_ul_mega_menu #cs_megamenu_more .more-menu li:hover a.title_menu_parent{color:#fff}
 /*.spanOption,.spanColumn{display:none}*/
 /* ipad hover */
-.cs_mega_menu{width:280px;}
+.cs_mega_menu{}
 #menu_home{float:left}
 .spanColumn,.spanOption{display:none}
 div.shop_by{border:none; border-top:1px solid #ffad5c; border-radius:3px 3px 0 0; -moz-border-radius:3px 3px 0 0; -webkit-border-radius:3px 3px 0 0; margin-top:-1px; background:#fa5701; height:56px; cursor:pointer; color:#fff;font:400 16px/56px 'Droid Sans', sans-serif;padding:0 20px;}

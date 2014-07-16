@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '201470201953a1da36218c08-09810579',
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53b396e7b4bda4_56790364',
+  'unifunc' => 'content_53c5be4b29e541_92639164',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53b396e7b4bda4_56790364')) {function content_53b396e7b4bda4_56790364($_smarty_tpl) {?><!-- CS Home Tab module -->
+<?php if ($_valid && !is_callable('content_53c5be4b29e541_92639164')) {function content_53c5be4b29e541_92639164($_smarty_tpl) {?><!-- CS Home Tab module -->
 <div class="home_top_tab">
 <div id="tabs">
 			<div class="box1">
@@ -31,19 +31,19 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 						<li class="ajax_block_product not-animated" data-animate="bounceIn" data-delay="0">
 							<div class="p_content">
 								<div class="image">
-									<a href="http://pekes.mx/cuidado-e-higiene/244-cojin-antireflujo-teddy.html" title="" class="product_image">
-										<img src="http://pekes.mx/547-prod_slider_home/cojin-antireflujo-teddy.jpg" alt="" />
+									<a href="http://pekes.mx/baberos/266-babero-de-silicon-rosa.html" title="" class="product_image">
+										<img src="http://pekes.mx/572-prod_slider_home/babero-de-silicon-rosa.jpg" alt="" />
 									</a>
 									
 																														<span class="new"><span>new</span></span>
 																											</div>
 								<div class="name_product">
 									<h3>
-									<a href="http://pekes.mx/cuidado-e-higiene/244-cojin-antireflujo-teddy.html" title="Coj&iacute;n antireflujo Teddy">Coj&iacute;n antireflujo Teddy</a>
+									<a href="http://pekes.mx/baberos/266-babero-de-silicon-rosa.html" title="Babero de silic&oacute;n Rosa">Babero de silic&oacute;n Rosa</a>
 									</h3>
 								</div>
 								
-								<p class="product_desc"></p>
+								<p class="product_desc">Suave, antibacterial, lavable, s&uacute;per flexible,...</p>
 								
 								
 								 
@@ -51,9 +51,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 								
 								<div class="content_price">
 										
-																		<span class="price ">$ 0.00</span>	
+																		<span class="price ">$ 167.80</span>	
 																	</div>
-																										<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_244" href="http://pekes.mx/carro-de-la-compra?qty=1&amp;id_product=244&amp;token=3c5da22d25d0ae51a103c8d668c01beb&amp;add" title=""><span class="in_button">Añadir al carrito</span></a>
+																										<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_266" href="http://pekes.mx/carro-de-la-compra?qty=1&amp;id_product=266&amp;token=02a1dbe59cd07a81db1dccc1481c9c4b&amp;add" title=""><span class="in_button">Añadir al carrito</span></a>
 																								
 							</div>
 					</li>
@@ -61,19 +61,19 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 						<li class="ajax_block_product not-animated" data-animate="bounceIn" data-delay="200">
 							<div class="p_content">
 								<div class="image">
-									<a href="http://pekes.mx/cestos-/243-cesto-multiusos-jirafita.html" title="" class="product_image">
-										<img src="http://pekes.mx/546-prod_slider_home/cesto-multiusos-jirafita.jpg" alt="" />
+									<a href="http://pekes.mx/cuidado-e-higiene/265-toallitas-lavables-4.html" title="" class="product_image">
+										<img src="http://pekes.mx/571-prod_slider_home/toallitas-lavables-4.jpg" alt="" />
 									</a>
 									
 																														<span class="new"><span>new</span></span>
 																											</div>
 								<div class="name_product">
 									<h3>
-									<a href="http://pekes.mx/cestos-/243-cesto-multiusos-jirafita.html" title="Cesto multiusos Jirafita">Cesto multiusos Jirafita</a>
+									<a href="http://pekes.mx/cuidado-e-higiene/265-toallitas-lavables-4.html" title="Toallitas lavables 4">Toallitas lavables 4</a>
 									</h3>
 								</div>
 								
-								<p class="product_desc"></p>
+								<p class="product_desc">Diferentes y divertidos dise&ntilde;os.&nbsp;El paquete...</p>
 								
 								
 								 
@@ -81,9 +81,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 								
 								<div class="content_price">
 										
-																		<span class="price ">$ 0.00</span>	
+																		<span class="price ">$ 50.00</span>	
 																	</div>
-																										<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_243" href="http://pekes.mx/carro-de-la-compra?qty=1&amp;id_product=243&amp;token=3c5da22d25d0ae51a103c8d668c01beb&amp;add" title=""><span class="in_button">Añadir al carrito</span></a>
+																										<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_265" href="http://pekes.mx/carro-de-la-compra?qty=1&amp;id_product=265&amp;token=02a1dbe59cd07a81db1dccc1481c9c4b&amp;add" title=""><span class="in_button">Añadir al carrito</span></a>
 																								
 							</div>
 					</li>
@@ -91,19 +91,20 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 						<li class="ajax_block_product not-animated" data-animate="bounceIn" data-delay="400">
 							<div class="p_content">
 								<div class="image">
-									<a href="http://pekes.mx/cestos-/242-cesto-multiusos-jungla.html" title="" class="product_image">
-										<img src="http://pekes.mx/545-prod_slider_home/cesto-multiusos-jungla.jpg" alt="" />
+									<a href="http://pekes.mx/panales-ecologicos/264-papel-biodegradable-de-bambu.html" title="" class="product_image">
+										<img src="http://pekes.mx/570-prod_slider_home/papel-biodegradable-de-bambu.jpg" alt="" />
 									</a>
 									
 																														<span class="new"><span>new</span></span>
 																											</div>
 								<div class="name_product">
 									<h3>
-									<a href="http://pekes.mx/cestos-/242-cesto-multiusos-jungla.html" title="Cesto multiusos Jungla">Cesto multiusos Jungla</a>
+									<a href="http://pekes.mx/panales-ecologicos/264-papel-biodegradable-de-bambu.html" title="Papel biodegradable de Bamb&uacute;">Papel biodegradable de Bamb&uacute;</a>
 									</h3>
 								</div>
 								
-								<p class="product_desc"></p>
+								<p class="product_desc">Papel Biodegradable de Bamb&uacute;
+100% Bamb&uacute;...</p>
 								
 								
 								 
@@ -111,9 +112,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 								
 								<div class="content_price">
 										
-																		<span class="price ">$ 0.00</span>	
+																		<span class="price ">$ 125.00</span>	
 																	</div>
-																										<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_242" href="http://pekes.mx/carro-de-la-compra?qty=1&amp;id_product=242&amp;token=3c5da22d25d0ae51a103c8d668c01beb&amp;add" title=""><span class="in_button">Añadir al carrito</span></a>
+																										<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_264" href="http://pekes.mx/carro-de-la-compra?qty=1&amp;id_product=264&amp;token=02a1dbe59cd07a81db1dccc1481c9c4b&amp;add" title=""><span class="in_button">Añadir al carrito</span></a>
 																								
 							</div>
 					</li>
@@ -121,19 +122,19 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 						<li class="ajax_block_product not-animated" data-animate="bounceIn" data-delay="600">
 							<div class="p_content">
 								<div class="image">
-									<a href="http://pekes.mx/cobertores/241-cobertor-hadita.html" title="" class="product_image">
-										<img src="http://pekes.mx/544-prod_slider_home/cobertor-hadita.jpg" alt="" />
+									<a href="http://pekes.mx/panales-ecologicos/263-insercion-chica-de-microfibra.html" title="" class="product_image">
+										<img src="http://pekes.mx/569-prod_slider_home/insercion-chica-de-microfibra.jpg" alt="" />
 									</a>
 									
 																														<span class="new"><span>new</span></span>
 																											</div>
 								<div class="name_product">
 									<h3>
-									<a href="http://pekes.mx/cobertores/241-cobertor-hadita.html" title="Cobertor  Hadita">Cobertor  Hadita</a>
+									<a href="http://pekes.mx/panales-ecologicos/263-insercion-chica-de-microfibra.html" title="Inserci&oacute;n chica de microfibra">Inserci&oacute;n chica de microfibra</a>
 									</h3>
 								</div>
 								
-								<p class="product_desc"></p>
+								<p class="product_desc">Esta Inserci&oacute;n tiene&nbsp;2 capas de microfibra...</p>
 								
 								
 								 
@@ -141,9 +142,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 								
 								<div class="content_price">
 										
-																		<span class="price ">$ 0.00</span>	
+																		<span class="price ">$ 45.00</span>	
 																	</div>
-																										<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_241" href="http://pekes.mx/carro-de-la-compra?qty=1&amp;id_product=241&amp;token=3c5da22d25d0ae51a103c8d668c01beb&amp;add" title=""><span class="in_button">Añadir al carrito</span></a>
+																										<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_263" href="http://pekes.mx/carro-de-la-compra?qty=1&amp;id_product=263&amp;token=02a1dbe59cd07a81db1dccc1481c9c4b&amp;add" title=""><span class="in_button">Añadir al carrito</span></a>
 																								
 							</div>
 					</li>
@@ -151,19 +152,19 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 						<li class="ajax_block_product not-animated" data-animate="bounceIn" data-delay="800">
 							<div class="p_content">
 								<div class="image">
-									<a href="http://pekes.mx/cobertores/240-cobertor-cunero-osito-rojo.html" title="" class="product_image">
-										<img src="http://pekes.mx/543-prod_slider_home/cobertor-cunero-osito-rojo.jpg" alt="" />
+									<a href="http://pekes.mx/panales-ecologicos/262-insercion-de-bambu-con-microfibra.html" title="" class="product_image">
+										<img src="http://pekes.mx/568-prod_slider_home/insercion-de-bambu-con-microfibra.jpg" alt="" />
 									</a>
 									
 																														<span class="new"><span>new</span></span>
 																											</div>
 								<div class="name_product">
 									<h3>
-									<a href="http://pekes.mx/cobertores/240-cobertor-cunero-osito-rojo.html" title="Cobertor  Osito Rojo">Cobertor  Osito Rojo</a>
+									<a href="http://pekes.mx/panales-ecologicos/262-insercion-de-bambu-con-microfibra.html" title="Inserci&oacute;n de Bamb&uacute; con microfibra">Inserci&oacute;n de Bamb&uacute; con...</a>
 									</h3>
 								</div>
 								
-								<p class="product_desc"></p>
+								<p class="product_desc">Tienen 2 capas de bamb&uacute; y&nbsp;2 de microfibra, lo...</p>
 								
 								
 								 
@@ -171,9 +172,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 								
 								<div class="content_price">
 										
-																		<span class="price ">$ 0.00</span>	
+																		<span class="price ">$ 115.00</span>	
 																	</div>
-																										<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_240" href="http://pekes.mx/carro-de-la-compra?qty=1&amp;id_product=240&amp;token=3c5da22d25d0ae51a103c8d668c01beb&amp;add" title=""><span class="in_button">Añadir al carrito</span></a>
+																										<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_262" href="http://pekes.mx/carro-de-la-compra?qty=1&amp;id_product=262&amp;token=02a1dbe59cd07a81db1dccc1481c9c4b&amp;add" title=""><span class="in_button">Añadir al carrito</span></a>
 																								
 							</div>
 					</li>
@@ -204,35 +205,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 						<li class="ajax_block_product not-animated" data-animate="bounceIn" data-delay="0">
 							<div class="p_content">
 								<div class="image">
-									<a href="http://pekes.mx/home/40-la-nueva-granja.html" title="" class="product_image">
-										<img src="http://pekes.mx/103-prod_slider_home/la-nueva-granja.jpg" alt="" />
-									</a>
-									
-																																				</div>
-								<div class="name_product">
-									<h3>
-									<a href="http://pekes.mx/home/40-la-nueva-granja.html" title="La nueva granja">La nueva granja</a>
-									</h3>
-								</div>
-								
-								<p class="product_desc"></p>
-								
-								
-								 
-
-								
-								<div class="content_price">
-										
-																		<span class="price ">$ 989.80</span>	
-																	</div>
-																										<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_40" href="http://pekes.mx/carro-de-la-compra?qty=1&amp;id_product=40&amp;token=3c5da22d25d0ae51a103c8d668c01beb&amp;add" title=""><span class="in_button">Añadir al carrito</span></a>
-																								
-							</div>
-					</li>
-										
-						<li class="ajax_block_product not-animated" data-animate="bounceIn" data-delay="200">
-							<div class="p_content">
-								<div class="image">
 									<a href="http://pekes.mx/biberones/7-biberon-natural-260-ml-9-0z-8710103561514.html" title="" class="product_image">
 										<img src="http://pekes.mx/233-prod_slider_home/biberon-natural-260-ml-9-0z.jpg" alt="" />
 									</a>
@@ -254,12 +226,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 										
 																		<span class="price ">$ 228.50</span>	
 																	</div>
-																										<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_7" href="http://pekes.mx/carro-de-la-compra?qty=1&amp;id_product=7&amp;token=3c5da22d25d0ae51a103c8d668c01beb&amp;add" title=""><span class="in_button">Añadir al carrito</span></a>
+																										<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_7" href="http://pekes.mx/carro-de-la-compra?qty=1&amp;id_product=7&amp;token=02a1dbe59cd07a81db1dccc1481c9c4b&amp;add" title=""><span class="in_button">Añadir al carrito</span></a>
 																								
 							</div>
 					</li>
 										
-						<li class="ajax_block_product not-animated" data-animate="bounceIn" data-delay="400">
+						<li class="ajax_block_product not-animated" data-animate="bounceIn" data-delay="200">
 							<div class="p_content">
 								<div class="image">
 									<a href="http://pekes.mx/chupones/17-chupon-vent-contemporaneo-0-6m-2-pack-8710103495376.html" title="" class="product_image">
@@ -283,41 +255,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 										
 																		<span class="price ">$ 199.00</span>	
 																	</div>
-																										<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_17" href="http://pekes.mx/carro-de-la-compra?qty=1&amp;id_product=17&amp;token=3c5da22d25d0ae51a103c8d668c01beb&amp;add" title=""><span class="in_button">Añadir al carrito</span></a>
+																										<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_17" href="http://pekes.mx/carro-de-la-compra?qty=1&amp;id_product=17&amp;token=02a1dbe59cd07a81db1dccc1481c9c4b&amp;add" title=""><span class="in_button">Añadir al carrito</span></a>
 																								
 							</div>
 					</li>
 										
-						<li class="ajax_block_product not-animated" data-animate="bounceIn" data-delay="600">
-							<div class="p_content">
-								<div class="image">
-									<a href="http://pekes.mx/home/33-basile-actimono.html" title="" class="product_image">
-										<img src="http://pekes.mx/65-prod_slider_home/basile-actimono.jpg" alt="" />
-									</a>
-									
-																																				</div>
-								<div class="name_product">
-									<h3>
-									<a href="http://pekes.mx/home/33-basile-actimono.html" title="Basile Actimono">Basile Actimono</a>
-									</h3>
-								</div>
-								
-								<p class="product_desc"></p>
-								
-								
-								 
-
-								
-								<div class="content_price">
-										
-																		<span class="price ">$ 610.38</span>	
-																	</div>
-																										<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_33" href="http://pekes.mx/carro-de-la-compra?qty=1&amp;id_product=33&amp;token=3c5da22d25d0ae51a103c8d668c01beb&amp;add" title=""><span class="in_button">Añadir al carrito</span></a>
-																								
-							</div>
-					</li>
-										
-						<li class="ajax_block_product not-animated" data-animate="bounceIn" data-delay="800">
+						<li class="ajax_block_product not-animated" data-animate="bounceIn" data-delay="400">
 							<div class="p_content">
 								<div class="image">
 									<a href="http://pekes.mx/calentador-de-biberones/113-calentador-de-biberones-071463010950.html" title="" class="product_image">
@@ -341,7 +284,66 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 										
 																		<span class="price ">$ 675.00</span>	
 																	</div>
-																										<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_113" href="http://pekes.mx/carro-de-la-compra?qty=1&amp;id_product=113&amp;token=3c5da22d25d0ae51a103c8d668c01beb&amp;add" title=""><span class="in_button">Añadir al carrito</span></a>
+																										<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_113" href="http://pekes.mx/carro-de-la-compra?qty=1&amp;id_product=113&amp;token=02a1dbe59cd07a81db1dccc1481c9c4b&amp;add" title=""><span class="in_button">Añadir al carrito</span></a>
+																								
+							</div>
+					</li>
+										
+						<li class="ajax_block_product not-animated" data-animate="bounceIn" data-delay="600">
+							<div class="p_content">
+								<div class="image">
+									<a href="http://pekes.mx/biberones/125-kit-de-inicio-breastflow-bpa-free-071463045655.html" title="" class="product_image">
+										<img src="http://pekes.mx/345-prod_slider_home/kit-de-inicio-breastflow-bpa-free.jpg" alt="" />
+									</a>
+									
+																																				</div>
+								<div class="name_product">
+									<h3>
+									<a href="http://pekes.mx/biberones/125-kit-de-inicio-breastflow-bpa-free-071463045655.html" title="Kit de inicio Breastflow (BPA free)">Kit de inicio Breastflow...</a>
+									</h3>
+								</div>
+								
+								<p class="product_desc">Set de inicio Breastflow que incluye:
+2 biberones de 5...</p>
+								
+								
+								 
+
+								
+								<div class="content_price">
+										
+																		<span class="price ">$ 699.00</span>	
+																	</div>
+																										<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_125" href="http://pekes.mx/carro-de-la-compra?qty=1&amp;id_product=125&amp;token=02a1dbe59cd07a81db1dccc1481c9c4b&amp;add" title=""><span class="in_button">Añadir al carrito</span></a>
+																								
+							</div>
+					</li>
+										
+						<li class="ajax_block_product not-animated" data-animate="bounceIn" data-delay="800">
+							<div class="p_content">
+								<div class="image">
+									<a href="http://pekes.mx/mordederas/122-mordedera-frutas-796714230252.html" title="" class="product_image">
+										<img src="http://pekes.mx/334-prod_slider_home/mordedera-frutas.jpg" alt="" />
+									</a>
+									
+																																				</div>
+								<div class="name_product">
+									<h3>
+									<a href="http://pekes.mx/mordederas/122-mordedera-frutas-796714230252.html" title="Mordedera  frutas">Mordedera  frutas</a>
+									</h3>
+								</div>
+								
+								<p class="product_desc"></p>
+								
+								
+								 
+
+								
+								<div class="content_price">
+										
+																		<span class="price ">$ 75.00</span>	
+																	</div>
+																										<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_122" href="http://pekes.mx/carro-de-la-compra?qty=1&amp;id_product=122&amp;token=02a1dbe59cd07a81db1dccc1481c9c4b&amp;add" title=""><span class="in_button">Añadir al carrito</span></a>
 																								
 							</div>
 					</li>

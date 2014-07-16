@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-06-23 13:19:32
+<?php /* Smarty version Smarty-3.1.14, created on 2014-07-03 04:07:54
          compiled from "/home/pekesmx/www/prestashop/modules/gamification/views/templates/admin/gamification/helpers/view/view_bt.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:212378143053a86fb40e8779-84408387%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '6a89183fd95dc7ee3d624ddbdccc3efe0defa819' => 
     array (
       0 => '/home/pekesmx/www/prestashop/modules/gamification/views/templates/admin/gamification/helpers/view/view_bt.tpl',
-      1 => 1402887903,
+      1 => 1404377967,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_53a86fb42896f8_50805513',
   'variables' => 
   array (
     'current_level_percent' => 0,
@@ -25,8 +27,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'badge' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a86fb42896f8_50805513',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_53a86fb42896f8_50805513')) {function content_53a86fb42896f8_50805513($_smarty_tpl) {?>
 <script>
@@ -73,19 +73,19 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 			</p>
 		</div>
 		<div id="right_intro">
-			<h4><?php echo smartyTranslate(array('s'=>"Our Team is available to help you progress... Contact us now!",'mod'=>'gamification'),$_smarty_tpl);?>
+			<h4><?php echo smartyTranslate(array('s'=>"Our team is available to help. Contact us today!",'mod'=>'gamification'),$_smarty_tpl);?>
 </h4><br/>
 			<ul>
 				<li>
 					<img src="../modules/gamification/views/img/phone_icon.png" alt="<?php echo smartyTranslate(array('s'=>"Phone",'mod'=>'gamification'),$_smarty_tpl);?>
 " />
-					<span><?php echo smartyTranslate(array('s'=>"By phone: +1 (888) 947.6543",'mod'=>'gamification'),$_smarty_tpl);?>
+					<span><?php echo smartyTranslate(array('s'=>"Call us: +1 (888) 947-6543",'mod'=>'gamification'),$_smarty_tpl);?>
 </span>
 				</li>
 				<li>
 					<img src="../modules/gamification/views/img/mail_icon.png" alt="<?php echo smartyTranslate(array('s'=>"Email",'mod'=>'gamification'),$_smarty_tpl);?>
 " />
-					<a href="http://www.prestashop.com/en/contact-us"><?php echo smartyTranslate(array('s'=>"By e-mail",'mod'=>'gamification'),$_smarty_tpl);?>
+					<a href="http://www.prestashop.com/en/contact-us"><?php echo smartyTranslate(array('s'=>"Fill out a contact form",'mod'=>'gamification'),$_smarty_tpl);?>
 </a>
 				</li>
 			</ul>
@@ -102,7 +102,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 	</div>
 	&nbsp;
 </div>
-<div class="clear"></br></div>
+<div class="clear"><br/></div>
 
 <?php  $_smarty_tpl->tpl_vars['type'] = new Smarty_Variable; $_smarty_tpl->tpl_vars['type']->_loop = false;
  $_smarty_tpl->tpl_vars['key'] = new Smarty_Variable;
@@ -133,15 +133,18 @@ $_smarty_tpl->tpl_vars['badge']->_loop = true;
 ">
 					<div class="gamification_badges_img" data-placement="top" data-toggle="tooltip" data-original-title="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['badge']->value->description, ENT_QUOTES, 'UTF-8', true);?>
 "><img src="<?php echo $_smarty_tpl->tpl_vars['badge']->value->getBadgeImgUrl();?>
-"></div>
+" alt="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['badge']->value->name, ENT_QUOTES, 'UTF-8', true);?>
+" /></div>
 					<div class="gamification_badges_name"><?php echo htmlspecialchars($_smarty_tpl->tpl_vars['badge']->value->name, ENT_QUOTES, 'UTF-8', true);?>
 </div>
 				</li>
 				<?php }
 if (!$_smarty_tpl->tpl_vars['badge']->_loop) {
 ?>
+				<li>
 					<div class="gamification_badges_name"><?php echo smartyTranslate(array('s'=>"No badge in this section",'mod'=>'gamification'),$_smarty_tpl);?>
 </div>
+				</li>
 				<?php } ?>
 			</ul>
 		</div>
@@ -150,6 +153,6 @@ if (!$_smarty_tpl->tpl_vars['badge']->_loop) {
 </p>
 	</div>
 </div>
-<div class="clear"></br></div>
+<div class="clear"><br/></div>
 <?php } ?>
 <?php }} ?>

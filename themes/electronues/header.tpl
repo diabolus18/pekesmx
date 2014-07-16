@@ -95,10 +95,11 @@
 							<div class='social-media-icons'>
 								<ul class="solial-media-list">
 									<li>
+									
 								<img src="{$img_dir}img/sm/facebook.png" />		
 									</li>
 									<li>
-											<img src="{$img_dir}img/sm/twitter.png" />
+											<a href="https://twitter.com/pekesmx"><img src="{$img_dir}img/sm/twitter.png" /></a>
 	
 									</li>
 									<li>
@@ -109,9 +110,12 @@
 							</div>
 						</div>
 
-						<div class="envios-wrap">
+						<div class="envios-wrap hidden-xs">
 							<div class="envios-centered">
 							<ul class="envios-ul">
+
+								<a href="http://pekes.mx/content/1-entrega">
+
 								<li>
 									<h4>
 										Entrega	
@@ -122,8 +126,10 @@
 									
 
 
-									<img src="{$img_dir}img/header-img/tiempo.png" />	
+<img src="{$img_dir}img/header-img/tiempo.png" /></a>
 								</li>
+		
+								<a href="http://pekes.mx/content/5-pago-seguro">
 								<li>
 									<h4>
 										Aceptamos	
@@ -133,6 +139,8 @@
 									</h4>
 									<img src="{$img_dir}img/header-img/tarjetas.png" />
 								</li>
+								</a>
+								<a href="http://pekes.mx/content/5-pago-seguro">
 								<li>
 									<h4>
 										Compra
@@ -142,6 +150,8 @@
 									</h4>
 									<img src="{$img_dir}img/header-img/seguridad.png" />
 								</li>
+								</a>
+								<a href="http://pekes.mx/content/1-entrega">
 								<li>
 									<h4>
 										Envío
@@ -151,6 +161,8 @@
 									</h4>
 									<img src="{$img_dir}img/header-img/envios.png" />
 								</li>
+								</a>
+								<a href="http://pekes.mx/content/4-sobre">
 								<li>
 									<h4>
 										Atención	
@@ -158,8 +170,10 @@
 									<h4>
 										a Clientes
 									</h4>
-									<img src="{$img_dir}img/header-img/servicioclientes.png" />
+									<img style="max-width: 18px;" src="{$img_dir}/serviciocliente3.png" />
+
 								</li>
+								</a>
 
 							</ul>
 							</div>

@@ -40,7 +40,15 @@
 			<input type="hidden" name="controller" value="search" />
 			<input type="hidden" name="orderby" value="position" />
 			<input type="hidden" name="orderway" value="desc" />
+
+<!--
 			<input class="search_query" type="text" id="search_query_top" name="search_query" value="{if isset($smarty.get.search_query)}{$smarty.get.search_query|htmlentities:$ENT_QUOTES:'utf-8'|stripslashes}{else}{l s='Search entire store here...' mod='cscsblocksearch'}{/if}" onfocus="this.value=''" onblur="if (this.value =='') this.value='{l s='Search entire store here...' mod='csblocksearch'}'" />
+-->
+
+			<input class="search_query" type="text" id="search_query_top" name="search_query" value="Buscar en toda la tienda" onfocus="this.value=''" onblur="if (this.value =='') this.value='{l s='Search entire store here...' mod='csblocksearch'}'" />
+
+
+
 			<input type="submit" name="submit_search" value="{l s='Search' mod='csblocksearch'}" class="button" title="{l s='Search' mod='csblocksearch'}"/>
 	</form>
 	{include file="$self/blocksearch-instantsearch.tpl"}

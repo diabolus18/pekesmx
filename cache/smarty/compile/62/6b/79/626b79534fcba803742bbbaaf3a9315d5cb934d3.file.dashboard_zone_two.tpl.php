@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-06-20 13:43:16
+<?php /* Smarty version Smarty-3.1.14, created on 2014-07-03 17:22:05
          compiled from "/home/pekesmx/www/prestashop/modules/dashproducts/views/templates/hook/dashboard_zone_two.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:168570071053a480c4201211-62168077%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '626b79534fcba803742bbbaaf3a9315d5cb934d3' => 
     array (
       0 => '/home/pekesmx/www/prestashop/modules/dashproducts/views/templates/hook/dashboard_zone_two.tpl',
-      1 => 1401153268,
+      1 => 1404377958,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_53a480c42a36f3_67364890',
   'variables' => 
   array (
     'allow_push' => 0,
@@ -26,8 +28,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'DASHPRODUCT_NBR_SHOW_TOP_SEARCH' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a480c42a36f3_67364890',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_53a480c42a36f3_67364890')) {function content_53a480c42a36f3_67364890($_smarty_tpl) {?>
 

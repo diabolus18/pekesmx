@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '138521601353a1da35472d60-90014753',
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53ad26fe3e4a45_56140482',
+  'unifunc' => 'content_53c5be4a97c527_66481737',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53ad26fe3e4a45_56140482')) {function content_53ad26fe3e4a45_56140482($_smarty_tpl) {?><!-- CS Slider module -->
+<?php if ($_valid && !is_callable('content_53c5be4a97c527_66481737')) {function content_53c5be4a97c527_66481737($_smarty_tpl) {?><!-- CS Slider module -->
 <script type="text/javascript">
 				var api;
 			jQuery(document).ready(function() {
@@ -71,17 +71,29 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 		<div class="banner">
 		
 			<ul>
-																														<li data-transition="boxslide" data-masterspeed="300" data-slotamount="7" data-delay="9400"  data-thumb="/modules/csslider/images/thumbs/1_5.jpg" >
+																														<li data-transition="boxslide" data-masterspeed="300" data-slotamount="7" data-delay="9400"  data-thumb="/modules/csslider/images/thumbs/1_13.png" >
 					 <a class="cs_slidelink" href="#" target="_self"></a> 
-					<img src="/modules/csslider/images/1_5.jpg" />
+					<img src="/modules/csslider/images/1_13.png" />
 										</li>
-																														<li data-transition="boxslide" data-masterspeed="300" data-slotamount="7" data-delay="9400"  data-thumb="/modules/csslider/images/thumbs/1_6.jpg" >
+																														<li data-transition="boxslide" data-masterspeed="300" data-slotamount="7" data-delay="9400"  data-thumb="/modules/csslider/images/thumbs/1_1.png" >
 					 <a class="cs_slidelink" href="#" target="_self"></a> 
-					<img src="/modules/csslider/images/1_6.jpg" />
+					<img src="/modules/csslider/images/1_1.png" />
 										</li>
-																														<li data-transition="boxslide" data-masterspeed="300" data-slotamount="7" data-delay="9400"  data-thumb="/modules/csslider/images/thumbs/1_7.png" >
+																														<li data-transition="boxslide" data-masterspeed="300" data-slotamount="7" data-delay="9400"  data-thumb="/modules/csslider/images/thumbs/1_14.png" >
 					 <a class="cs_slidelink" href="#" target="_self"></a> 
-					<img src="/modules/csslider/images/1_7.png" />
+					<img src="/modules/csslider/images/1_14.png" />
+										</li>
+																														<li data-transition="boxslide" data-masterspeed="300" data-slotamount="7" data-delay="9400"  data-thumb="/modules/csslider/images/thumbs/1_15.png" >
+					 <a class="cs_slidelink" href="#" target="_self"></a> 
+					<img src="/modules/csslider/images/1_15.png" />
+										</li>
+																														<li data-transition="boxslide" data-masterspeed="300" data-slotamount="7" data-delay="9400"  data-thumb="/modules/csslider/images/thumbs/1_16.png" >
+					 <a class="cs_slidelink" href="#" target="_self"></a> 
+					<img src="/modules/csslider/images/1_16.png" />
+										</li>
+																														<li data-transition="boxslide" data-masterspeed="300" data-slotamount="7" data-delay="9400"  data-thumb="/modules/csslider/images/thumbs/1_17.png" >
+					 <a class="cs_slidelink" href="#" target="_self"></a> 
+					<img src="/modules/csslider/images/1_17.png" />
 										</li>
 							</ul>
 						<div class="tp-bannertimer"></div> 

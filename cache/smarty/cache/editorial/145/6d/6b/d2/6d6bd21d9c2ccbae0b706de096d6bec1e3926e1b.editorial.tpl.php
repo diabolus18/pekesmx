@@ -5,17 +5,17 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '6d6bd21d9c2ccbae0b706de096d6bec1e3926e1b' => 
     array (
       0 => '/home/pekesmx/www/prestashop/modules/editorial/editorial.tpl',
-      1 => 1403062211,
+      1 => 1404377964,
       2 => 'file',
     ),
   ),
   'nocache_hash' => '193332178353a1da36660f56-67630170',
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53ad20182a2041_88928379',
-  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_53c5be4b2ccef5_73424237',
+  'has_nocache_code' => false,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53ad20182a2041_88928379')) {function content_53ad20182a2041_88928379($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53c5be4b2ccef5_73424237')) {function content_53c5be4b2ccef5_73424237($_smarty_tpl) {?>
 <!-- Module Editorial -->
 <div id="editorial_block_center" class="editorial_block">
 					<h1>Bienvenido a www.pekes.mx</h1>		</div>

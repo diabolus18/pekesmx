@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '138665067553a1da3ecba0a9-71641901',
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53b398de73ce58_74158479',
+  'unifunc' => 'content_53c5ed7620b521_18611192',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53b398de73ce58_74158479')) {function content_53b398de73ce58_74158479($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53c5ed7620b521_18611192')) {function content_53c5ed7620b521_18611192($_smarty_tpl) {?>
 <div class="clearfix box0 blockproductscategory">
 	<div class="title"><h3 class="productscategory_h2">2 otros productos de la misma categoría:</h3></div>
 	<div id="productscategory_noscroll">
@@ -32,7 +32,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 						</h3>
 					</div>
 										<span class="availability">Available</span>										
-					<p class="product_desc"></p>
+					<p class="product_desc">Pr&aacute;ctico cestos multiusos!
+Puedes utilizarlo para guardar cobijas, ropa o...</p>
 																												<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_242" href="http://pekes.mx/carro-de-la-compra?add=&id_product=242&token=3c5da22d25d0ae51a103c8d668c01beb" title="Add to cart">Add to cart</a>
 												
 													</div>
@@ -48,7 +49,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 						</h3>
 					</div>
 										<span class="availability">Available</span>										
-					<p class="product_desc"></p>
+					<p class="product_desc">Frazada s&uacute;per suavecita, calientita&nbsp;y ligera. Cabe en cualquier...</p>
 																												<a class="csbutton ajax_add_to_cart_button csdefault" rel="ajax_id_product_235" href="http://pekes.mx/carro-de-la-compra?add=&id_product=235&token=3c5da22d25d0ae51a103c8d668c01beb" title="Add to cart">Add to cart</a>
 												
 													</div>

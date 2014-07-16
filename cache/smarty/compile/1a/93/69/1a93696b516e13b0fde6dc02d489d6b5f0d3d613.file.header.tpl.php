@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-06-27 04:09:53
+<?php /* Smarty version Smarty-3.1.14, created on 2014-07-09 01:10:55
          compiled from "/home/pekesmx/www/prestashop/themes/electronues/header.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:43811777553a1da36b0a595-64162365%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '1a93696b516e13b0fde6dc02d489d6b5f0d3d613' => 
     array (
       0 => '/home/pekesmx/www/prestashop/themes/electronues/header.tpl',
-      1 => 1403860089,
+      1 => 1404886249,
       2 => 'file',
     ),
   ),
@@ -182,12 +182,13 @@ cshometab1-ie8.css" rel="stylesheet" type="text/css" media="<?php echo $_smarty_
 							<div class='social-media-icons'>
 								<ul class="solial-media-list">
 									<li>
+									
 								<img src="<?php echo $_smarty_tpl->tpl_vars['img_dir']->value;?>
 img/sm/facebook.png" />		
 									</li>
 									<li>
-											<img src="<?php echo $_smarty_tpl->tpl_vars['img_dir']->value;?>
-img/sm/twitter.png" />
+											<a href="https://twitter.com/pekesmx"><img src="<?php echo $_smarty_tpl->tpl_vars['img_dir']->value;?>
+img/sm/twitter.png" /></a>
 	
 									</li>
 									<li>
@@ -199,11 +200,12 @@ img/sm/ytube.png" />
 							</div>
 						</div>
 
-					
-					
-						<div class="envios-wrap">
+						<div class="envios-wrap hidden-xs">
 							<div class="envios-centered">
 							<ul class="envios-ul">
+
+								<a href="http://pekes.mx/content/1-entrega">
+
 								<li>
 									<h4>
 										Entrega	
@@ -214,9 +216,11 @@ img/sm/ytube.png" />
 									
 
 
-									<img src="<?php echo $_smarty_tpl->tpl_vars['img_dir']->value;?>
-img/header-img/tiempo.png" />	
+<img src="<?php echo $_smarty_tpl->tpl_vars['img_dir']->value;?>
+img/header-img/tiempo.png" /></a>
 								</li>
+		
+								<a href="http://pekes.mx/content/5-pago-seguro">
 								<li>
 									<h4>
 										Aceptamos	
@@ -227,6 +231,8 @@ img/header-img/tiempo.png" />
 									<img src="<?php echo $_smarty_tpl->tpl_vars['img_dir']->value;?>
 img/header-img/tarjetas.png" />
 								</li>
+								</a>
+								<a href="http://pekes.mx/content/5-pago-seguro">
 								<li>
 									<h4>
 										Compra
@@ -237,6 +243,8 @@ img/header-img/tarjetas.png" />
 									<img src="<?php echo $_smarty_tpl->tpl_vars['img_dir']->value;?>
 img/header-img/seguridad.png" />
 								</li>
+								</a>
+								<a href="http://pekes.mx/content/1-entrega">
 								<li>
 									<h4>
 										Envío
@@ -247,6 +255,8 @@ img/header-img/seguridad.png" />
 									<img src="<?php echo $_smarty_tpl->tpl_vars['img_dir']->value;?>
 img/header-img/envios.png" />
 								</li>
+								</a>
+								<a href="http://pekes.mx/content/4-sobre">
 								<li>
 									<h4>
 										Atención	
@@ -254,13 +264,19 @@ img/header-img/envios.png" />
 									<h4>
 										a Clientes
 									</h4>
-									<img src="<?php echo $_smarty_tpl->tpl_vars['img_dir']->value;?>
-img/header-img/servicioclientes.png" />
+									<img style="max-width: 18px;" src="<?php echo $_smarty_tpl->tpl_vars['img_dir']->value;?>
+/serviciocliente3.png" />
+
 								</li>
+								</a>
 
 							</ul>
 							</div>
 						</div>
+
+					
+					
+						
 					
 					
 

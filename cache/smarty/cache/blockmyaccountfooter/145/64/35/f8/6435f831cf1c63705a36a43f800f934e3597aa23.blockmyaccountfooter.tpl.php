@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '34090755753a1da367b30c5-56895536',
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53ad201830d6c5_66847675',
+  'unifunc' => 'content_53c5be4b33ac69_42696977',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53ad201830d6c5_66847675')) {function content_53ad201830d6c5_66847675($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53c5be4b33ac69_42696977')) {function content_53c5be4b33ac69_42696977($_smarty_tpl) {?>
 <!-- Block myaccount module -->
 <div class="grid_4 myaccount" data-animate="fadeInLeft" data-delay="0">
 	<h4 class="title_block"><a href="http://pekes.mx/mi-cuenta" title="Administrar mi cuenta de cliente" rel="nofollow">Mi cuenta</a></h4>
@@ -26,7 +26,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 						<li><a href="http://pekes.mx/vales" title="Listado de mis créditos" rel="nofollow">Mis vales descuento</a></li>
 			<li><a href="http://pekes.mx/direcciones" title="Lista de direcciónes" rel="nofollow">Mis direcciones</a></li>
 			<li><a href="http://pekes.mx/identidad" title="Administrar mi información personal" rel="nofollow">Mis datos personales</a></li>
-									
+						<li class="logout"><a href="http://pekes.mx/?mylogout" title="Cerrar sesión" rel="nofollow">Sign out</a></li>			
 		</ul>
 		<!-- <p class="logout"><a href="http://pekes.mx/?mylogout" title="Cerrar sesión" rel="nofollow">Sign out</a></p> -->
 	</div>

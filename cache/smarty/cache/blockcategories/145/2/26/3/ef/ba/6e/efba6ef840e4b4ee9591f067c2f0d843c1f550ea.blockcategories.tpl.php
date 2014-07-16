@@ -17,11 +17,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '129683563053a1da35b97f33-58512439',
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53b2fd5b53e703_93306138',
+  'unifunc' => 'content_53c5ed8825f0b1_54147241',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53b2fd5b53e703_93306138')) {function content_53b2fd5b53e703_93306138($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53c5ed8825f0b1_54147241')) {function content_53c5ed8825f0b1_54147241($_smarty_tpl) {?>
 <!-- Block categories module -->
 <div id="categories_block_left" class="box1" data-animate="fadeInDown" data-delay="0">
 	<div class="title"><h3>Categorías</h3></div>
@@ -99,8 +99,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 	</li>
 
 												
-<li class="last">
+<li >
 	<a href="http://pekes.mx/28-cuidado-e-higiene"  title="">Cuidado e higiene</a>
+	</li>
+
+												
+<li class="last">
+	<a href="http://pekes.mx/45-panales-ecologicos"  title="">Pa&ntilde;ales ecol&oacute;gicos</a>
 	</li>
 
 							</ul>
